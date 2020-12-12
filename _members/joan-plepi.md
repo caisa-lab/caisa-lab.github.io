@@ -1,20 +1,12 @@
 ---
-title: Anne Chovie
+title: Joan Plepi
 search:
-  - A. Chovie
-  - A Chovie
-role: programmer
-image: images/corgi.jpg
-website: fakewebsite.com
-email: anne@chovie.com
-github: fakegithubuser
-twitter: faketwitterhandle
-instagram: fakeinstagramhandle
+  - J. Plepi
+  - J Plepi
+role: phd
+group: current
+image: images/team/joan_plepi.jpg
 ---
-
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Velit egestas dui id ornare arcu odio ut sem nulla.
