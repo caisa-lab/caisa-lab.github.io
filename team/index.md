@@ -22,8 +22,10 @@ Team members filtered and sorted by role:
 
 {% capture html %}
 {% include team-list.html role="pi" %}
+{% include team-list.html role="postdoc" %}
 {% include team-list.html role="phd" %}
-{% include team-list.html role="programmer" %}
+{% include team-list.html role="master" %}
+{% include team-list.html role="bachelor" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
