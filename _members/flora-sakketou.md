@@ -3,6 +3,7 @@ title: Flora Sakketou
 search:
   - F. Sakketou
   - F Sakketou
+  - Flora Sakketou
 role: postdoc
 group: current
 image: images/team/flora_sakketou.jpg

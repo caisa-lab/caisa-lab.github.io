@@ -3,8 +3,10 @@ title: Prof. Dr. Lucie Flek
 search:
   - L. Flek
   - L Flek
+  - Lucie Flek
   - L. Flekova
   - L Flekova
+  - Lucie Flekova
 role: pi
 group: current
 image: images/team/lucie_flek.jpg
