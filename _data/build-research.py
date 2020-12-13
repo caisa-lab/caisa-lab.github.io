@@ -15,6 +15,7 @@ from datetime import datetime
 # input and output files
 current_dir = os.path.dirname(os.path.realpath(__file__))
 input_file = os.path.join(current_dir, "research-input.yml")
+input_file_bib = os.path.join(current_dir, "research-input.bib")
 output_file = os.path.join(current_dir, "research-output.yml")
 
 # load input papers as yaml
@@ -49,7 +50,15 @@ for index, input_paper in enumerate(input_papers, start=1):
     # otherwise, run manubot to get new citation metadata
     else:
         print("Paper not in output. Running Manubot to generate citation.\n")
-        commands = ["manubot", "cite", input_paper["id"], "--log-level", "DEBUG"]
+        input_paper_id = input_paper["id"]
+        # workaround to add citation of papers without a doi or where parsing fails
+        commands = []
+        if ("localbib:" in input_paper_id):
+            # get the citation via manubot / pandoc from local .bib file
+            commands = ["manubot", "cite", "--bibliography", input_file_bib, input_paper_id.replace("localbib:", ""),
+                        "--format", "csljson", "--log-level", "DEBUG"]
+        else:
+            commands = ["manubot", "cite", input_paper_id, "--log-level", "DEBUG"]
         output = subprocess.Popen(commands, stdout=subprocess.PIPE)
         citation = json.loads(output.communicate()[0])[0]
 
@@ -59,7 +68,8 @@ for index, input_paper in enumerate(input_papers, start=1):
         new_paper["title"] = citation.get("title", "")
         # output_ authors
         new_paper["authors"] = []
-        for author in citation.get("author", []):
+        # add editors for proceedings
+        for author in citation.get("author", []) + citation.get("editor", []):
             new_author = author.get("given", "") + " " + author.get("family", "")
             new_paper["authors"].append(new_author)
         # output_ publisher
