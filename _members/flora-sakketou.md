@@ -1,5 +1,5 @@
 ---
-title: Flora Sakketou, Ph.D.
+title: Flora Sakketou
 search:
   - F. Sakketou
   - F Sakketou

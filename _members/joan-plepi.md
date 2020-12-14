@@ -1,5 +1,5 @@
 ---
-title: Joan Plepi, M.Sc.
+title: Joan Plepi
 search:
   - J. Plepi
   - J Plepi

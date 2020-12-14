@@ -1,5 +1,5 @@
 ---
-title: Prof. Dr. Lucie Flek
+title: Lucie Flek
 search:
   - L. Flek
   - L Flek
