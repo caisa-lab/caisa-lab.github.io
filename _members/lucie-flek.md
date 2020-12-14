@@ -7,7 +7,7 @@ search:
   - L. Flekova
   - L Flekova
   - Lucie Flekova
-role: pi
+role: prof
 group: current
 image: images/team/lucie_flek.jpg
 website: https://lucieflek.github.io/

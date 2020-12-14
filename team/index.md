@@ -21,29 +21,28 @@ All team members, sorted alphabetically by file name:
 Team members filtered and sorted by role:
 
 {% capture html %}
-{% include team-list.html role="pi" %}
-{% include team-list.html role="postdoc" %}
-{% include team-list.html role="phd" %}
-{% include team-list.html role="master" %}
-{% include team-list.html role="bachelor" %}
+{% include team-list.html group="current" role="prof" %}
+{% include team-list.html group="current" role="postdoc" %}
+{% include team-list.html group="current" role="phd" %}
+{% include team-list.html group="current" role="intern" %}
+{% include team-list.html group="current" role="master" %}
+{% include team-list.html group="current" role="bachelor" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
 
-Team members filtered and sorted by group:
+External collaborators:
 
 {% capture html %}
-{% include team-list.html group="current" %}
-{% include team-list.html group="" %}
+{% include team-list.html group="extern" %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
+
+Alumni:
+
+{% capture html %}
 {% include team-list.html group="alum" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-Team members in a specific order and in a mini size:
-
-{% capture html %}
-{% include team-list.html order="team-order" mini=true %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
