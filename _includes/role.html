@@ -1,9 +1,9 @@
 {%- assign icon = "fas fa-user" -%}
 {%- assign text = "Default Role" -%}
 
-{%- if include.type == "pi" -%}
+{%- if include.type == "prof" -%}
 {%- assign icon = "fas fa-microscope" -%}
-{%- assign text = "Principal Investigator" -%}
+{%- assign text = "Professor" -%}
 {%- endif -%}
 
 {%- if include.type == "postdoc" -%}
@@ -16,11 +16,6 @@
 {%- assign text = "PhD Student" -%}
 {%- endif -%}
 
-{%- if include.type == "undergrad" -%}
-{%- assign icon = "fas fa-user-graduate" -%}
-{%- assign text = "Undergraduate Student" -%}
-{%- endif -%}
-
 {%- if include.type == "master" -%}
 {%- assign icon = "fas fa-user-graduate" -%}
 {%- assign text = "Master Student" -%}
@@ -31,14 +26,14 @@
 {%- assign text = "Bachelor Student" -%}
 {%- endif -%}
 
-{%- if include.type == "programmer" -%}
-{%- assign icon = "fas fa-code" -%}
-{%- assign text = "Programmer" -%}
+{%- if include.type == "intern" -%}
+{%- assign icon = "fas fa-user" -%}
+{%- assign text = "Intern" -%}
 {%- endif -%}
 
-{%- if include.type == "mascot" -%}
-{%- assign icon = "fas fa-dog" -%}
-{%- assign text = "Mascot" -%}
+{%- if include.type == "collab" -%}
+{%- assign icon = "fas fa-handshake" -%}
+{%- assign text = "Collaborator" -%}
 {%- endif -%}
 
 {%- if include.text -%}
