@@ -20,7 +20,7 @@ CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides
 ## Current areas of interest
 
 
-Here are some of our present focus areas. For more details and additional topics, see the [project page](/projects) or our [blog](blog).
+Here are some of our present focus areas. For more details and additional topics, see the [project page](projects) or our [blog](news).
 
 
 {% capture text %}

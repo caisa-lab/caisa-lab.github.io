@@ -1,8 +1,8 @@
 ---
-title: Resources
+title: Projects
 ---
 
-# <i class="fas fa-tools"></i>Resources
+# <i class="fas fa-tools"></i>Projects
 
 <!-- section break -->
 
