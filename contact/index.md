@@ -3,14 +3,13 @@ title: Contact
 ---
 
 # <i class="fas fa-envelope"></i>Contact
-
+_
 Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
 We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 {% include figure.html image="images/volcano.jpg" width="100%" %}
 
-## Email
-
+## Email#
 [scrooge@mcduck.com](mailto:scrooge@mcduck.com)
 {:.center}
 
