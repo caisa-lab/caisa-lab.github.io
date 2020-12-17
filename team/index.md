@@ -4,21 +4,9 @@ title: Team
 
 # <i class="fas fa-users"></i>Team
 
-## Team List
+<!-- section break -->
 
-A _team list_ component, to sort and group all of the members on your team automatically.
-Can be used on any page, but assumes its content from `/_members`.
-Uses the _portrait_ component.
-
-All team members, sorted alphabetically by file name:
-
-{% capture html %}
-{% include team-list.html %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-Team members filtered and sorted by role:
+## Current CAISA Team
 
 {% capture html %}
 {% include team-list.html group="current" role="prof" %}
@@ -31,7 +19,9 @@ Team members filtered and sorted by role:
 
 {% include centerer.html html=html %}
 
-External collaborators:
+<!-- section break -->
+
+## External collaborators
 
 {% capture html %}
 {% include team-list.html group="extern" %}
@@ -39,7 +29,9 @@ External collaborators:
 
 {% include centerer.html html=html %}
 
-Alumni:
+<!-- section break -->
+
+## Alumni
 
 {% capture html %}
 {% include team-list.html group="alum" %}
