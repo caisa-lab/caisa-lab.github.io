@@ -20,7 +20,7 @@ CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides
 ## Current areas of interest
 
 
-Here are some of our present focus areas. For more details and additional topics, see the [project page](/projects) or our [blog](blog).
+Below is a selection of our recent focus areas. See the [project page](/projects) or our [news blog](blog) for more.
 
 
 {% capture text %}
@@ -29,7 +29,7 @@ Which subjective factors matter for interpreting a conversation? How to distingu
 {% endcapture %}
 {%
   include feature.html
-  image="images/laboratory.jpg"
+  image="images/userwoman.png"
   link="resources"
   heading="User representation learning"
   text=text
@@ -41,7 +41,7 @@ What are the user expectations on conversational AI in subjective areas, and how
 {% endcapture %}
 {%
   include feature.html
-  image="images/laboratory.jpg"
+  image="images/Conversational.png"
   link="resources"
   heading="Opinionated conversations"
   text=text
@@ -53,19 +53,19 @@ accepting and spreading misinformation, and can these be affected by the quality
 {% endcapture %}
 {%
   include feature.html
-  image="images/laboratory.jpg"
+  image="images/Network.png"
   link="resources"
   heading="Opinion formation and dynamics"
   text=text
 %}
 
 {% capture text %}
-How can we transfer knowledge among conversational and social NLP tasks? 
+How can we transfer knowledge among conversational and social NLP tasks? How to best adapt existing NLP models to expert domains, such as medical or financial discourse?
 How can we effectively augment conversational tasks with synthetically generated data?
 {% endcapture %}
 {%
   include feature.html
-  image="images/laboratory.jpg"
+  image="images/smalldata.jpg"
   link="resources"
   heading="Learning more with fewer resources"
   text=text
@@ -77,67 +77,15 @@ How can we effectively augment conversational tasks with synthetically generated
 
 ## Our Team
 
-A _big link_ component, useful for emphasizing important links, such as other key pages on your site that aren't in the top nav bar.
+We are a diverse group of collaborators in areas such as natural language processing, machine learning, and computational social sciences.
+{%- include big-link.html icon="fas fa-user-friends" text="Team" link="team" -%}
 
-{% include big-link.html icon="fas fa-hands-helping" text="Join the team" link="join" -%}
-{%- include big-link.html icon="fas fa-user-friends" text="Collaborators" link="collaborators" -%}
+
+If you are interested in joining our team, or are looking for a topic for your bachelor or master thesis, get in touch!
+{% include big-link.html icon="fas fa-hands-helping" text="Join us" link="contact" -%}
 {:.center}
 
-<!-- section break -->
-
-
-## Paper Link
-
-A customizable _paper link_ component, with icon and text.
-Useful for showing supplementary links for a paper.
-To see the built-in links and add your own, see `/_includes/paper-link.html`.
-
-{% capture html %}
-{% include paper-link.html type="website" link="https://greenelab.com/" %}
-{% include paper-link.html type="journal" link="https://greenelab.com/" %}
-{% include paper-link.html type="preprint" link="https://greenelab.com/" %}
-{% include paper-link.html type="app" %}
-{% include paper-link.html type="data" text="Server" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
 
 <!-- section break -->
 
-## Social Link
-
-A customizable _social link_ component, with icon and tooltip.
-Specify custom links, or leave blank to use site defaults in `_config.yml`.
-To see the built-in links and add your own, see `/_includes/social-link.html`.
-
-{% capture html %}
-{% include social-link.html type="website" link=page.website %}
-{% include social-link.html type="contact" %}
-{% include social-link.html type="email" %}
-{% include social-link.html type="google" %}
-{% include social-link.html type="github" %}
-{% include social-link.html type="twitter" %}
-{% include social-link.html type="instagram" %}
-{% include social-link.html type="youtube" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-<!-- section break -->
-
-
-## Font Awesome Icons
-
-[Font Awesome](https://fontawesome.com/) is a large library of beautiful, clean, consistent, professionally-designed icons.
-[Find the icon you want](https://fontawesome.com/icons?d=gallery&q=icon&m=free), and paste its HTML code right into your markdown:
-
-<i class="fas fa-flask"></i>
-<i class="fas fa-microscope"></i>
-<i class="fas fa-glasses"></i>
-<i class="fas fa-vial"></i>
-<i class="fas fa-bacteria"></i>
-<i class="fas fa-virus"></i>
-
-Use the same [style](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use) of icon across your site to maintain a consistent look.
-See the [styling section](https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons) of their docs to see some of the easy ways you can modify the look of the icons.
 
