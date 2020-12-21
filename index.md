@@ -30,7 +30,7 @@ Which subjective factors matter for interpreting a conversation? How to distingu
 {%
   include feature.html
   image="images/userwoman.png"
-  link="resources"
+  link="projects"
   heading="User representation learning"
   text=text
 %}
@@ -42,7 +42,7 @@ What are the user expectations on conversational AI in subjective areas, and how
 {%
   include feature.html
   image="images/Conversational.png"
-  link="resources"
+  link="projects"
   heading="Opinionated conversations"
   text=text
 %}
@@ -54,7 +54,7 @@ accepting and spreading misinformation, and can these be affected by the quality
 {%
   include feature.html
   image="images/Network.png"
-  link="resources"
+  link="projects"
   heading="Opinion formation and dynamics"
   text=text
 %}
@@ -66,7 +66,7 @@ How can we effectively augment conversational tasks with synthetically generated
 {%
   include feature.html
   image="images/smalldata.jpg"
-  link="resources"
+  link="projects"
   heading="Learning more with fewer resources"
   text=text
 %}
