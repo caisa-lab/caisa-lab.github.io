@@ -20,48 +20,37 @@
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
 
-- title: Voluptate
+- title: Dynamically Social Natural Language Processing for Discourse Analysis
   type: featured
   image: images/space.jpg
   link: https://nasa.gov/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  repo: greenelab/lab-website-template
+  description: The DynSoDA project will model the discourse aspects of language together with the deep representations of user characteristics and latent social network profiles derived from online dialogues. In contrast to current approaches, user representations will be treated as dynamically contextual. The project further envisions the use of transfer and multitask learning techniques at multiple levels of abstraction to allow the framework to work robustly across a range of NLP tasks related to social discourse (such as opinion detection, sentiment analysis, hate speech identification, argument persuasiveness prediction, and rumor evaluation in social media), to better understand the similarities between these tasks, and to scale to numerous European languages. The innovative user representations, developed in this project, can also find future applications in the area of dialog modeling, improving quality and coherence of human-machine conversations.
+  repo: https://github.com/caisa-lab
 
-- title: Excepteur
   type: featured
   image: images/polar-graph.jpg
   link: https://nasa.gov/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   repo: greenelab/lab-website-template
 
-- title: Incididunt
-  type: other
-  image: images/microscope.jpg
-  link: https://microscope.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- title: Incididunt
-  type: other
-  image: images/microscope.jpg
-  link: https://microscope.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- title: Incididunt
-  type: other
-  image: images/microscope.jpg
-  link: https://microscope.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- title: Laboris
+- title: Synthetic Data Generation and Paraphrasing for Chatbots
   type: legacy
   image: images/test-tube.jpg
   link: https://greenelab.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Large amounts of annotated training data are necessary to develop task-oriented dialogue sys-
+    tems, which is very costly, time-consuming and requires high manual efforts, especially for an-
+    notating the data. Dialogues between users and the system are difficult to obtain, often they are created manually by crowd workers.
 
-- title: Culpa
+- title: User Representation Learning across Conversational Environments
   type: legacy
   image: images/laboratory.jpg
   link: https://greenelab.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: User embeddings also
+    led to substantial performance improvements in several downstream tasks, such as sentiment
+    analysis, sarcasm detection or hate speech detection. The relevance of information gained from
+    it is best explained by the idea of homophily, i.e., the phenomenon that people tend to associate
+    more with those who appear similar. From a psychological point of view, however, a specific social situation is of great influence to
+    the expressed behavior. This work aims to investigate the possibility of enhancing various
+    downstream tasks by substituting context-free (static) user embeddings with contextualized
+    ones dependent on the environment (e.g. Subreddit) or social situation.
   repo: greenelab/lab-website-template
