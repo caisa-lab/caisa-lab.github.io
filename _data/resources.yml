@@ -22,35 +22,84 @@
 
 - title: Dynamically Social Natural Language Processing for Discourse Analysis
   type: featured
-  image: images/space.jpg
-  link: https://nasa.gov/
-  description: The DynSoDA project will model the discourse aspects of language together with the deep representations of user characteristics and latent social network profiles derived from online dialogues. In contrast to current approaches, user representations will be treated as dynamically contextual. The project further envisions the use of transfer and multitask learning techniques at multiple levels of abstraction to allow the framework to work robustly across a range of NLP tasks related to social discourse (such as opinion detection, sentiment analysis, hate speech identification, argument persuasiveness prediction, and rumor evaluation in social media), to better understand the similarities between these tasks, and to scale to numerous European languages. The innovative user representations, developed in this project, can also find future applications in the area of dialog modeling, improving quality and coherence of human-machine conversations.
+  image: images/userwoman.png
+  description: The DynSoDA project will model the discourse aspects of language together with the deep representations of user characteristics and latent social network profiles derived from online dialogues. In contrast to current approaches, user representations will be treated as dynamically contextual. The project further envisions the use of transfer and multitask learning techniques at multiple levels of abstraction to allow the framework to work robustly across a range of NLP tasks related to social discourse (such as opinion detection, sentiment analysis, hate speech identification, argument persuasiveness prediction, and rumor evaluation in social media), to better understand the similarities between these tasks, and to scale to numerous European languages.
   repo: https://github.com/caisa-lab
 
+- title: Personalization of Conversational Agents
   type: featured
-  image: images/polar-graph.jpg
-  link: https://nasa.gov/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  repo: greenelab/lab-website-template
+  image: images/Conversational.png
+  description: This project focuses on exploring the applications of pre-trained contextual user representations in the area of dialog modeling, improving quality and coherence of human-machine conversations.
 
 - title: Synthetic Data Generation and Paraphrasing for Chatbots
   type: legacy
-  image: images/test-tube.jpg
-  link: https://greenelab.com/
+  image: images/Conversational.png
   description: Large amounts of annotated training data are necessary to develop task-oriented dialogue sys-
     tems, which is very costly, time-consuming and requires high manual efforts, especially for an-
     notating the data. Dialogues between users and the system are difficult to obtain, often they are created manually by crowd workers.
 
 - title: User Representation Learning across Conversational Environments
   type: legacy
-  image: images/laboratory.jpg
-  link: https://greenelab.com/
-  description: User embeddings also
-    led to substantial performance improvements in several downstream tasks, such as sentiment
+  image: images/userwoman.png
+  description: User embedding led to substantial performance improvements in several downstream tasks, such as sentiment
     analysis, sarcasm detection or hate speech detection. The relevance of information gained from
     it is best explained by the idea of homophily, i.e., the phenomenon that people tend to associate
     more with those who appear similar. From a psychological point of view, however, a specific social situation is of great influence to
     the expressed behavior. This work aims to investigate the possibility of enhancing various
     downstream tasks by substituting context-free (static) user embeddings with contextualized
     ones dependent on the environment (e.g. Subreddit) or social situation.
-  repo: greenelab/lab-website-template
+
+- title: Synthetic Data Generation and Paraphrasing for Chatbots
+  type: legacy
+  image: images/Conversational.png
+  description: Large amounts of annotated training data are necessary to develop task-oriented dialogue sys-
+    tems, which is very costly, time-consuming and requires high manual efforts, especially for an-
+    notating the data. Dialogues between users and the system are difficult to obtain, often they are created manually by crowd workers.
+
+- title: Understanding an Appropriate Opinionated Chatbot Style
+  type: legacy
+  image: images/Conversational.png
+  description: Summarization and stylistic paraphrasing of opinionated text to generate chatbot answers. When answering requests
+    of users, a chatbot should present information in a neutral way. The correct answer often has to be extracted from various online
+    sources. However, this data may contain swear words or other unacceptable statements that should not be repeated,
+    e.g. presenting a verbatim opinion of a single radical user as a summary. Moreover, a summary which is otherwise fine might feel out of place in a conversational setting.
+    Therefore, the summary still has to be paraphrased to a different style. When paraphrasing opinionated content, the goal is not only
+    to keep the content but also the opinion polarity. Understanding chatbot appropriateness could help to make conversational agents
+    more robust to opinionated or offensive data and thus more applicable to real world problems.
+
+- title: Sociodemographic Analysis of Social Media Opinion Bubbles
+      type: legacy
+      image: images/Network.png
+      description: Social media platforms have become an integral part of political discourse.
+    This seemingly beneficial democratic process is accompanied by the forming of echo chambers.
+    Having collected nearly 1 million social media posts and comments from over 200.000 unique users,
+    we experiment with several algorithms to identify the subcommunities on 14 controversial topics, and examine their estimated socio-demographic profiles.
+    We explore the correlation between an echo chamber network shape
+    and the socio-demographic separation of the discussion participants.
+
+- title: Analyzing the Personal Settings of Fake News Spreaders
+      type: legacy
+      image: images/Network.png
+      description: We analyze characteristics of users that are vulnerable to internalizing and spreading Fake
+        News. With the help of veracity servers such as Snopes.com we identify users that are
+        spreading false information and explore if we find common personal and social network characteristics in their
+        profiles based on a collection of their social media posts.
+
+
+- title: Effects of Personal and Social Factors on Fluctuations in Expressed Opinions
+      type: legacy
+      image: images/userwoman.png
+      description: Social media have been a place for very passionate discussions regarding controversial topics.
+        Do these discussions have any effect or are we all stubborn victims of our filter bubbles? Using
+        data from social media conversations of the same users over several months, the aim of this
+        project is to find if social media users ever weaken or strengthen the intensity with which they
+        communicate their opinion to others, and if so, what are the possible interactions and personal
+        factors causing such a change.
+
+- title: Conversational Opinionated Question Answering
+  type: legacy
+  image: images/Conversational.png
+  description: Perhaps not surprisingly, opinion QA systems generate a wide variety of subjective and possibly
+    contradictory answers. Just as opinions diverge among different users,
+    answers to such questions may also be subjective, opinionated, and varied. Answering such questions automatically is quite different from typical QA tasks, where it is
+    assumed that a single “correct” answer is available. In this pilot study we explore user preferences in navigating a conversational recommendation system prototype.

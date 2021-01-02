@@ -1,9 +1,9 @@
 ---
-title: Henry Geiß
+title: Henri Geiß
 search:
   - H. Geiß
   - H Geiß
-  - Henry Geiß
+  - Henri Geiß
 role: bachelor
 group: alum
 ---
