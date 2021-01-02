@@ -1,13 +1,14 @@
 ---
-title: Venenatis tellus in metus vulputate
+title: BMBF funds Lucie Flek to establish an AI research group on Dynamically Social Discourse Analysis
 tags: 
-  - amet
-  - parturient
-  - ultricies
-author: Upton O. Goode
-member-page: upton-goode
+  - DynSoDa
+  - Social Media
+  - User Representations
+  - BMBF
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A lacus vestibulum sed arcu non odio. Libero volutpat sed cras ornare. Natoque penatibus et magnis dis parturient montes nascetur. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Ultricies lacus sed turpis tincidunt id. Tellus rutrum tellus pellentesque eu tincidunt. Amet commodo nulla facilisi nullam vehicula ipsum a. Ultrices dui sapien eget mi proin sed libero enim. Quam vulputate dignissim suspendisse in est. Tortor condimentum lacinia quis vel eros donec ac. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Eu nisl nunc mi ipsum faucibus vitae aliquet. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing.
+Prof. Dr. Lucie Flek receives a grant of over 1 Mil. Euro from the Federal Ministry of Education and Research (BMBF) for establishing an Independent Research Group on her project DynSoDA: Dynamically Social Natural Language Processing for Online Discourse Analysis. The 4-year project is a part of the BMBF support program for young researchers working in the field of Artificial Intelligence.
 
-Pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Ante in nibh mauris cursus mattis molestie a. Vitae tortor condimentum lacinia quis. Venenatis tellus in metus vulputate eu scelerisque. Magnis dis parturient montes nascetur ridiculus mus mauris. Aliquam ut porttitor leo a diam sollicitudin tempor. Sit amet aliquam id diam. Congue eu consequat ac felis. Non arcu risus quis varius quam quisque id. Lectus urna duis convallis convallis. Pretium viverra suspendisse potenti nullam. Egestas congue quisque egestas diam in arcu cursus. Mauris vitae ultricies leo integer malesuada nunc vel risus.
+Lucie Flek points out that one of the challenges of today’s NLP models is that they typically assume one text has the same meaning for everyone. However, the message communicated is influenced by the individual characteristics of the individual and by the affinity to different socio-demographic groups. Current technological progress opens up a new opportunity to correct the decades-long deviation of machine learning from sociolinguistics, as deep neural models allow for a seamless integration of heterogeneous variables.
+
+The DynSoDA project will model the discourse aspects of language together with the deep representations of user characteristics and latent social network profiles derived from online dialogues. In contrast to current approaches, user representations will be treated as dynamically contextual. The project further envisions the use of transfer and multitask learning techniques at multiple levels of abstraction to allow the framework to work robustly across a range of NLP tasks related to social discourse (such as opinion detection, sentiment analysis, hate speech identification, argument persuasiveness prediction, and rumor evaluation in social media), to better understand the similarities between these tasks, and to scale to numerous European languages. The innovative user representations, developed in this project, can also find future applications in the area of dialog modeling, improving quality and coherence of human-machine conversations.
