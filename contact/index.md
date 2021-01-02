@@ -3,13 +3,13 @@ title: Contact
 ---
 
 # <i class="fas fa-envelope"></i>Contact
-_
-CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides at the 
+
+CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and currently resides at the 
 [Department of Computer Science](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp) of the Technische Universität Darmstadt in Germany.
 
-{% include figure.html image="images/piloty.jpg" width="100%" %}
+{% include figure.html image="images/piloty.jpeg" width="100%" %}
 
-## Email#
+## Email
 [lucie.flek@tu-darmstadt.de](mailto:lucie.flek@tu-darmstadt.de)
 {:.center}
 
