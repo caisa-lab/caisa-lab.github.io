@@ -1,0 +1,9 @@
+---
+title: Andreas Schäffler
+search:
+  - A Schäffler
+  - Schaeffler
+role: master
+group: current
+email: andreas.schaeffler@stud.tu-darmstadt.de
+---
