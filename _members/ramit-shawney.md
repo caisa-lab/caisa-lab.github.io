@@ -1,9 +1,9 @@
 ---
-title: Ramit Shawney
+title: Ramit Sawhney
 search:
   - Ramit
-  - Shawney
-  - R. Shawney
+  - Sawhney
+  - R. Sawhney
 role: collab
 group: extern
 ---
