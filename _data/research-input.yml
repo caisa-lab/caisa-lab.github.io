@@ -60,6 +60,7 @@
 - id: doi:10.18653/v1/W18-5905
 - id: localbib:carpenter2018impact
 - id: localbib:ws-2018-stylistic
+- id: localbib:eacl-2020-phase
 
 # Flora's publications
 - id: doi:10.1016/j.knosys.2020.105628
@@ -67,3 +68,6 @@
 - id: doi:10.1007/978-3-030-19823-7_56
 - id: doi:10.1007/978-3-030-38629-0_8
 - id: doi:10.1145/3200947.3201009
+
+# Joan's publications
+- id: localbib:eacl-2020-qa
