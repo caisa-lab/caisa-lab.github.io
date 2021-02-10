@@ -4,6 +4,7 @@ search:
   - H. Geiß
   - H Geiß
   - Henri Geiß
-role: bachelor
-group: alum
+role: assist
+group: current
+image: images/team/henri_geiss.jpeg
 ---

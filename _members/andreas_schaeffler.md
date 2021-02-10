@@ -6,4 +6,5 @@ search:
 role: master
 group: current
 email: andreas.schaeffler@stud.tu-darmstadt.de
+image: images/team/andreas_schaeffler.png
 ---
