@@ -11,5 +11,7 @@ more user-centric conversational agents as well as more accurate web discourse i
 CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides at the 
 [Department of Computer Science](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp) of the Technische Universität Darmstadt in Germany.
 
-<br>
-<br>
+# Local dev setup
+
+Set up ruby as described [here](https://github.com/greenelab/lab-website-template/wiki/Get-Started#on-your-computer-1).
+On linux, you need to add `gem` to your path as described [here](https://wiki.archlinux.org/index.php/ruby#Setup).
