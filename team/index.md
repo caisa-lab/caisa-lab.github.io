@@ -12,6 +12,7 @@ title: Team
 {% include team-list.html group="current" role="prof" %}
 {% include team-list.html group="current" role="postdoc" %}
 {% include team-list.html group="current" role="phd" %}
+{% include team-list.html group="current" role="assist" %}
 {% include team-list.html group="current" role="intern" %}
 {% include team-list.html group="current" role="master" %}
 {% include team-list.html group="current" role="bachelor" %}
