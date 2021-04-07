@@ -4,10 +4,10 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and currently resides at the 
-[Department of Computer Science](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp) of the Technische Universität Darmstadt in Germany.
+CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides at the 
+[Department of Mathematics and Computer Science](https://www.uni-marburg.de/en/fb12) of the Philipps Universität Marburg in Germany.
 
-{% include figure.html image="images/piloty.jpeg" width="100%" %}
+{% include figure.html image="images/marburg.jpeg" width="100%" %}
 
 ## Email
 [lucie.flek@tu-darmstadt.de](mailto:lucie.flek@tu-darmstadt.de)
@@ -16,8 +16,8 @@ CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and current
 ## Address
 
 CAISA Lab 
-S2|02 B108 
-Hochschulstraße 10
-64289 Darmstadt
+FB 12 | Mathematik und Informatik
+Hans-Meerwein-Straße 6
+35043 Marburg
 {:.center}
 
