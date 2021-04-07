@@ -9,7 +9,7 @@ into our language understanding and language generation models, aiming at buildi
 more user-centric conversational agents as well as more accurate web discourse interpretation systems.
 
 CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides at the 
-[Department of Computer Science](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp) of the Technische Universität Darmstadt in Germany.
+[Department of Mathematics and Computer Science](https://www.uni-marburg.de/en/fb12/research-groups/language-technologies) of the Philipps Universität Marburg in Germany.
 
 # Local dev setup
 
