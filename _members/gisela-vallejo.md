@@ -6,5 +6,6 @@ search:
   - Gisela Vallejo
 role: phd
 group: current
+image: images/team/gisela_vallejo.jpeg
 ---
 
