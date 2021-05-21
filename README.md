@@ -13,5 +13,5 @@ CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides
 
 # Local dev setup
 
-Set up ruby as described [here](https://github.com/greenelab/lab-website-template/wiki/Get-Started#on-your-computer-1).
+Set up ruby as described [here](https://github.com/caisa-lab/caisa-lab.github.io/tree/40904c0a252098c1468fbb4507e4e59f2b661202#previewing-and-testing-changes-on-your-computer).
 On linux, you need to add `gem` to your path as described [here](https://wiki.archlinux.org/index.php/ruby#Setup).
