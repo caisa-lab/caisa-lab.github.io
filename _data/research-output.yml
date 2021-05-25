@@ -22,6 +22,15 @@
   publisher: European Chapter of the Association for Computational Linguistics (EACL)
   date: '2021-01-01'
   id: localbib:eacl-2020-phase
+- title: 'Suicide Ideation Detection via Social and Temporal User Representations using Hyperbolic Learning'
+  authors:
+  - Ramit Sawhney
+  - Harshit Joshi
+  - Rajiv Ratn Shah
+  - Lucie Flek
+  publisher: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies
+  date: '2021-05-05'
+  id: localbib:sawhney-etal-2021-suicide
 - title: 'Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks'
   authors:
   - Joan Plepi
