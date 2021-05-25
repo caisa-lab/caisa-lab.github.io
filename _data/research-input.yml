@@ -61,6 +61,7 @@
 - id: localbib:carpenter2018impact
 - id: localbib:ws-2018-stylistic
 - id: localbib:eacl-2020-phase
+- id: localbib:sawhney-etal-2021-suicide
 
 # Flora's publications
 - id: doi:10.1016/j.knosys.2020.105628
@@ -71,3 +72,4 @@
 
 # Joan's publications
 - id: localbib:eacl-2020-qa
+- id: localbib:plepi2021carton
