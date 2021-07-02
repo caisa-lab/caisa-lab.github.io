@@ -4,7 +4,7 @@ search:
   - L. Vogel
   - L Vogel
 role: master
-group: current
+group: alum
 image: images/team/liane_vogel.jpg
 email: liane.vogel@stud.tu-darmstadt.de
 ---
