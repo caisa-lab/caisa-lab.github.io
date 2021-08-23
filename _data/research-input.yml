@@ -73,3 +73,16 @@
 # Joan's publications
 - id: localbib:eacl-2020-qa
 - id: localbib:plepi2021carton
+
+# Charlie's publications
+- id: localbib:welch-mihalcea-2016-targeted
+- id: localbib:Welch16Targeted
+- id: localbib:welch-etal-2018-world
+- id: doi:10.1109/MIS.2019.2916965
+- id: arxiv:1904.11610
+- id: localbib:shen-etal-2020-counseling
+- id: arXiv:2007.03819
+- id: doi:10.18653/v1/2020.emnlp-main.696
+- id: doi:10.18653/v1/2020.emnlp-main.334
+- id: doi:10.18653/v1/2020.coling-main.604
+- id: doi:10.18653/v1/2021.findings-acl.392
