@@ -1,8 +1,8 @@
 ---
-title: Thesis
+title: Theses
 ---
 
-# <i class="fas fa-tools"></i>Thesis
+# <i class="fas fa-tools"></i>Theses
 
 <!-- section break -->
 
