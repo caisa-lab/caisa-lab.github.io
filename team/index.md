@@ -16,6 +16,7 @@ title: Team
 {% include team-list.html group="current" role="intern" %}
 {% include team-list.html group="current" role="master" %}
 {% include team-list.html group="current" role="bachelor" %}
+{% include team-list.html group="current" role="robo_assist" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}

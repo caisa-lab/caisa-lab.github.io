@@ -65,6 +65,7 @@
   image: images/Conversational.png
   description: Perhaps not surprisingly, opinion QA systems generate a wide variety of subjective and possibly contradictory answers. Just as opinions diverge among different users, answers to such questions may also be subjective, opinionated, and varied. Answering such questions automatically is quite different from typical QA tasks, where it is assumed that a single “correct” answer is available. In this pilot study we explore user preferences in navigating a conversational recommendation system prototype.
 
+# Thesis
 - title: A poor man’s opinion detection tool, training a model with a handful of data
   type: thesis
   description: Opinion detection aims to detect an author’s view towards a certain topic and has become a key component in everyday applications such as fake news detection and argumentation. While state-of-the-art deep learning models are ideal for this problem, they need lots of labeled training data that is often expensive to obtain. In order to reduce data collection costs, we can use few-shot-learning models which are specifically designed for learning with a very small amount of training data. Since most of our data comes from social media, we need a tool that can differentiate useful text from noisy, unopinionated posts. To this end, this thesis aims to develop an opinion detection model that can efficiently differentiate opinionated from non-opinionated text and is trained only on a small amount of data.
@@ -106,3 +107,30 @@
   description: Data augmentation techniques are used to generate additional, synthetic data using already existing data. While images can be augmented easily by transformations such as rotations or changes of the RGB channel without affecting the classification models, text augmentation is much more difficult because there are no universal rules for automatic textual data transformations that can be applied while maintaining the meaning of the text. Therefore this thesis aims to investigate various natural language generation techniques for paraphrasing opinionated text and evaluate the quality of the generated data on opinion detection.
   link: theses_pdf/size_matters.pdf
   image: images/theses/size_matters.png
+
+# Finished theses
+- title: Sociodemographic Proﬁling of Social Media Opinion Bubbles and Users vulnerable to Fake News
+  type: finished_thesis
+  #link: theses_pdf/finished/henri_geiss.pdf
+  image: icons/android.png
+
+- title: User Representation Learning across Conversational Environments
+  type: finished_thesis
+  #link: theses_pdf/finished/kim_sarcasm.pdf
+  image: icons/android.png
+
+- title: Synthetic Data Generation and Paraphrasing for Chatbots
+  type: finished_thesis
+  #link: theses_pdf/finished/liane_vogel.pdf
+  image: icons/android.png
+
+- title: Summarization and stylistic paraphrasing of opinionated text to generate chatbot answers
+  type: finished_thesis
+  #link: theses_pdf/finished/philipp_nothvogel.pdf
+  image: icons/android.png
+
+- title: Improving Stance Detection on Social Media Through User History
+  type: finished_thesis
+  #link: theses_pdf/finished/thesis_schaeffler_final.pdf
+  image: icons/android.png
+

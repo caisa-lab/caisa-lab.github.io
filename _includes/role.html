@@ -36,6 +36,11 @@
 {%- assign text = "Student Assistant" -%}
 {%- endif -%}
 
+{%- if include.type == "robo_assist" -%}
+{%- assign icon = "fas fa-robot" -%}
+{%- assign text = "Robo Assistant" -%}
+{%- endif -%}
+
 {%- if include.type == "collab" -%}
 {%- assign icon = "fas fa-handshake" -%}
 {%- assign text = "Collaborator" -%}
