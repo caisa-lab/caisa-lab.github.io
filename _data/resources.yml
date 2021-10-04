@@ -108,6 +108,11 @@
   link: theses_pdf/size_matters.pdf
   image: images/theses/size_matters.png
 
+# Ongoing Theses
+- title: Indoctrination Detection in History Textbooks through Entity Emotion Analysis 
+  type: ongoing_theses
+  image: images/theses/size_matters.png
+
 # Finished theses
 - title: Sociodemographic Proﬁling of Social Media Opinion Bubbles and Users vulnerable to Fake News
   type: finished_thesis

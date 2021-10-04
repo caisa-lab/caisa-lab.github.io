@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 vendor
 .vscode
+
+# Ignored files
+theses_pdf/finished/**

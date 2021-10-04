@@ -15,6 +15,14 @@ title: Theses
 
 {% include centerer.html html=html %}
 
+<!-- 
+## Ongoing Theses
+{% capture html %}
+{% include resource-list.html type="ongoing_thesis" size="small" %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
+-->
 
 ## Finished Theses
 {% capture html %}
