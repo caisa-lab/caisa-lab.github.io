@@ -75,7 +75,7 @@
 - id: localbib:plepi2021carton
 
 # Charlie's publications
-- id: localbib:welch-mihalcea-2016-targeted
+#- id: localbib:welch-mihalcea-2016-targeted
 - id: localbib:Welch16Targeted
 - id: localbib:welch-etal-2018-world
 - id: doi:10.1109/MIS.2019.2916965

@@ -5,6 +5,6 @@ search:
   - H Geiß
   - Henri Geiß
 role: assist
-group: current
+group: alum
 image: images/team/henri_geiss.jpeg
 ---
