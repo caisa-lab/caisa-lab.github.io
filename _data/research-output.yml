@@ -13,45 +13,6 @@
   date: '2020-01-22'
   link: https://arxiv.org/abs/2001.06910
   id: arxiv:2001.06910
-- title: 'PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media'
-  authors:
-  - Ramit Sawhney
-  - Harshit Joshi
-  - Rajiv Ratn Shah
-  - Lucie Flek
-  publisher: European Chapter of the Association for Computational Linguistics (EACL)
-  date: '2021-01-01'
-  id: localbib:eacl-2020-phase
-- title: 'Suicide Ideation Detection via Social and Temporal User Representations using Hyperbolic Learning'
-  authors:
-  - Ramit Sawhney
-  - Harshit Joshi
-  - Rajiv Ratn Shah
-  - Lucie Flek
-  publisher: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics
-  date: '2021-05-05'
-  id: localbib:sawhney-etal-2021-suicide
-- title: 'Context Transformer with Stacked Pointer Networks for Conversational Question Answering over Knowledge Graphs'
-  authors:
-  - Joan Plepi
-  - Endri Kacupaj
-  - Kuldeep Singh
-  - Harsh Thakkar
-  - Jens Lehmann
-  publisher: Eighteenth Extended Semantic Web Conference - Research Track
-  date: '2021-05-05'
-  id: localbib:plepi2021carton
-- title: 'Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks'
-  authors:
-  - Joan Plepi
-  - Endri Kacupaj
-  - Kuldeep Singh
-  - Harsh Thakkar
-  - Jens Lehmann
-  - Maria Maleshkova
-  publisher: European Chapter of the Association for Computational Linguistics (EACL)
-  date: '2021-01-01'
-  id: localbib:eacl-2020-qa
 - title: 'Returning the N to NLP: Towards Contextually Personalized Classification
     Models'
   authors:
@@ -95,6 +56,27 @@
   date: '2018-06-01'
   link: https://www.aclweb.org/anthology/W18-1600
   id: localbib:ws-2018-stylistic
+- title: 'PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation
+    Detection on Social Media'
+  authors:
+  - Ramit Sawhney
+  - Harshit Joshi
+  - Rajiv Ratn Shah
+  - Lucie Flek
+  publisher: European Chapter of the Association for Computational Linguistics (EACL)
+  date: '2021-01-01'
+  id: localbib:eacl-2020-phase
+- title: Suicide Ideation Detection via Social and Temporal User Representations using
+    Hyperbolic Learning
+  authors:
+  - Ramit Sawhney
+  - Harshit Joshi
+  - Rajiv Ratn Shah
+  - Lucie Flek
+  publisher: Proceedings of the 2021 Conference of the North American Chapter of the
+    Association for Computational Linguistics
+  date: '2021-05-05'
+  id: localbib:sawhney-etal-2021-suicide
 - title: A constrained optimization algorithm for learning GloVe embeddings with semantic
     lexicons
   authors:
@@ -141,3 +123,106 @@
   date: '2018-01-01'
   link: https://doi.org/ghpczs
   id: doi:10.1145/3200947.3201009
+- title: Conversational Question Answering over Knowledge Graphs with Transformer
+    and Graph Attention Networks
+  authors:
+  - Joan Plepi
+  - Endri Kacupaj
+  - Kuldeep Singh
+  - Harsh Thakkar
+  - Jens Lehmann
+  - Maria Maleshkova
+  publisher: European Chapter of the Association for Computational Linguistics (EACL)
+  date: '2021-01-01'
+  id: localbib:eacl-2020-qa
+- title: Context Transformer with Stacked Pointer Networks for Conversational Question
+    Answering over Knowledge Graphs
+  authors:
+  - Joan Plepi
+  - Endri Kacupaj
+  - Kuldeep Singh
+  - Harsh Thakkar
+  - Jens Lehmann
+  publisher: Eighteenth Extended Semantic Web Conference - Research Track
+  date: '2021-05-05'
+  id: localbib:plepi2021carton
+- title: Improving Low Compute Language Modeling with In-Domain Embedding Initialisation
+  authors:
+  - Charles Welch
+  - Rada Mihalcea
+  - Jonathan K. Kummerfeld
+  publisher: Association for Computational Linguistics (ACL)
+  date: '2020-01-01'
+  link: https://doi.org/gm2tvz
+  id: doi:10.18653/v1/2020.emnlp-main.696
+- title: Learning From Personal Longitudinal Dialog Data
+  authors:
+  - Charles Welch
+  - Veronica Perez-Rosas
+  - Jonathan K. Kummerfeld
+  - Rada Mihalcea
+  - Erik Cambria
+  publisher: IEEE Intelligent Systems
+  date: '2019-07-01'
+  link: https://doi.org/gjmfzx
+  id: doi:10.1109/MIS.2019.2916965
+- title: 'Look Who''s Talking: Inferring Speaker Attributes from Personal Longitudinal
+    Dialog'
+  authors:
+  - Charles Welch
+  - "Ver\xF3nica P\xE9rez-Rosas"
+  - Jonathan K. Kummerfeld
+  - Rada Mihalcea
+  publisher: arXiv
+  date: '2019-04-29'
+  link: https://arxiv.org/abs/1904.11610
+  id: arxiv:1904.11610
+- title: 'Expressive Interviewing: A Conversational System for Coping with COVID-19'
+  authors:
+  - Charles Welch
+  - Allison Lahnala
+  - "Ver\xF3nica P\xE9rez-Rosas"
+  - Siqi Shen
+  - Sarah Seraj
+  - Larry An
+  - Kenneth Resnicow
+  - James Pennebaker
+  - Rada Mihalcea
+  publisher: arXiv
+  date: '2020-07-09'
+  link: https://arxiv.org/abs/2007.03819
+  id: arXiv:2007.03819
+- title: Compositional Demographic Word Embeddings
+  authors:
+  - Charles Welch
+  - Jonathan K. Kummerfeld
+  - "Ver\xF3nica P\xE9rez-Rosas"
+  - Rada Mihalcea
+  publisher: Association for Computational Linguistics (ACL)
+  date: '2020-01-01'
+  link: https://doi.org/gm2twr
+  id: doi:10.18653/v1/2020.emnlp-main.334
+- title: Exploring the Value of Personalized Word Embeddings
+  authors:
+  - Charles Welch
+  - Jonathan K. Kummerfeld
+  - "Ver\xF3nica P\xE9rez-Rosas"
+  - Rada Mihalcea
+  publisher: Association for Computational Linguistics (ACL)
+  date: '2020-01-01'
+  link: https://doi.org/gm2tws
+  id: doi:10.18653/v1/2020.coling-main.604
+- title: Exploring Self-Identified Counseling Expertise in Online Support Forums
+  authors:
+  - Allison Lahnala
+  - Yuntian Zhao
+  - Charles Welch
+  - Jonathan K. Kummerfeld
+  - Lawrence C An
+  - Kenneth Resnicow
+  - Rada Mihalcea
+  - "Ver\xF3nica P\xE9rez-Rosas"
+  publisher: Association for Computational Linguistics (ACL)
+  date: '2021-01-01'
+  link: https://doi.org/gm2twv
+  id: doi:10.18653/v1/2021.findings-acl.392
