@@ -4,7 +4,7 @@ search:
   - Joscha David Zirkelbach 
   - Joscha Zirkelbach 
   - J Zirkelbach 
-role: assist
+role: master
 group: current
 image: images/team/joscha.jpg
 github: jzirkel
