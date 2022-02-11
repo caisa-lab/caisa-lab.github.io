@@ -5,7 +5,7 @@ search:
   - L Wolf
   - Lars Wolf
 role: master
-group: current
+group: alum
 image: images/team/lars_wolf.jpg
 email: larsmatthias.wolf@stud.tu-darmstadt.de
 github:  D0nPiano

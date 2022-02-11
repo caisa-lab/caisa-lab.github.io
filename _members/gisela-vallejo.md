@@ -5,7 +5,7 @@ search:
   - G Vallejo
   - Gisela Vallejo
 role: phd
-group: current
+group: alum
 image: images/team/gisela_vallejo.jpeg
 ---
 
