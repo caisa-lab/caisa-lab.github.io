@@ -5,7 +5,7 @@ search:
   - Joscha Zirkelbach 
   - J Zirkelbach 
 role: master
-group: current
+group: alum
 image: images/team/joscha.jpg
 github: jzirkel
 email: zirkelba@students.uni-marburg,de
