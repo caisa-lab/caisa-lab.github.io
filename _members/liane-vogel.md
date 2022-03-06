@@ -6,5 +6,5 @@ search:
 role: master
 group: alum
 image: images/team/liane_vogel.jpg
-email: liane.vogel@stud.tu-darmstadt.de
+email: \{name\}.{surname}@stud.tu-darmstadt.de
 ---

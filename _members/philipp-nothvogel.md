@@ -6,6 +6,6 @@ search:
 role: master
 group: alum
 image: images/team/philipp_nothvogel.jpg
-email: philipp.nothvogel@stud.tu-darmstadt.de
+email: \{name\}.{surname}@stud.tu-darmstadt.de
 github: philno
 ---

@@ -7,7 +7,7 @@ search:
 role: phd
 group: current
 image: images/team/joan_plepi.jpg
-email: \{name\}.{surname}@mathematik.uni-marburg.de
+email: \{name\}.{surname}@uni-marburg.de
 github: joanPlepi
 twitter: JoanPlepi
 ---

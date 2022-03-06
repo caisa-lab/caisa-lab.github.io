@@ -8,7 +8,7 @@ role: postdoc
 group: current
 image: images/team/charlie_welch.jpg
 github: cfwelch
-email: charlie.f.welch@gmail.com
+email: \{name\}.{surname}@uni-marburg.de
 twitter: ytaipsw
 ---
 

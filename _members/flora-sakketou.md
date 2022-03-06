@@ -6,6 +6,7 @@ search:
   - Flora Sakketou
 role: postdoc
 group: current
+email: \{name\}.{surname}@uni-marburg.de
 image: images/team/flora_sakketou.jpg
 ---
 

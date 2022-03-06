@@ -6,5 +6,5 @@ search:
 role: master
 group: alum
 image: images/team/kim_breitwieser.jpeg
-email: kim.breitwieser@stud.tu-darmstadt.de
+email: \{name\}.{surname}@stud.tu-darmstadt.de
 ---

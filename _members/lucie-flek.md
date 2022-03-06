@@ -11,7 +11,7 @@ role: prof
 group: current
 image: images/team/lucie_flek.jpg
 website: https://lucieflek.github.io/
-email: lucie.flek@gmail.com
+email: \{name\}.{surname}@uni-marburg.de
 twitter: lucie_nlp
 github: lucieflek
 ---

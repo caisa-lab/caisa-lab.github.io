@@ -5,6 +5,6 @@ search:
   - Schaeffler
 role: master
 group: alum
-email: andreas.schaeffler@stud.tu-darmstadt.de
+email: \{name\}.{surname}@stud.tu-darmstadt.de
 image: images/team/andreas_schaeffler.png
 ---

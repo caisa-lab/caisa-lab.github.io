@@ -6,5 +6,5 @@ search:
 role: master
 group: alum
 image: images/team/tamara_liebich.JPG
-email: tamara.liebich@stud.tu-darmstadt.de
+email: \{name\}.{surname}@stud.tu-darmstadt.de
 ---

@@ -1,5 +1,5 @@
 ---
-title: Allie Lahnala
+title: Allison Lahnala
 search:
   - A Lahnala
   - Lahnala
@@ -8,7 +8,7 @@ role: phd
 group: current
 image: images/team/allie_lahnala.jpg
 github: alahnala
-email: alahnala@gmail.com
+email: \{name\}.{surname}@uni-marburg.de
 website: http://allielahnala.com/
 twitter: AllieLahnala
 ---
