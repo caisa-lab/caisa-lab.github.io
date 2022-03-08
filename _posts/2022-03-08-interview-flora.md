@@ -6,6 +6,8 @@ tags:
   - Postdoctoral researcher
 ---
 
+{% include figure.html image="images/team/flora_sakketou.jpg"%}
+
 Today we interview [Flora Sakketou](https://caisa-lab.github.io/members/flora-sakketou.html), a postdoctoral researcher in our lab, focusing on developing deep learning optimization algorithms and applying them to Natural Language Processing problems. Read on to learn more about her exciting research path, her interests, and life in Marburg. 
 
 
@@ -51,4 +53,3 @@ two cats watching sci-fi movies after a long day at the lab.
 
 
 
-{% include figure.html image="images/team/flora_sakketou.jpg"%}
