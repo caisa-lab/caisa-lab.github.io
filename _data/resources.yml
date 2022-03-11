@@ -72,35 +72,11 @@
   link: theses_pdf/poor_man_opinion_detection_tool.pdf
   image: images/theses/poor_opinion.png
 
-- title: Bootstrapping Receptive Communities for Classification of Receptive Language
-  type: thesis
-  description: Receptiveness, or how willing someone is to thoughtfully engage with opposing views, is known to contribute to more successful conversational interactions. It is desirable to be able to identify this language automatically in order to analyze and build systems that use this type of language. A few receptiveness classifiers have been built using small existing datasets with receptiveness annotations. Using these, what Reddit communities do we hypothesize will be more or less receptive? What makes them receptive and how do they differ? Leveraging data from receptive communities, we can retrain a receptiveness classifier and evaluate it using annotated data. Additional experiments may include analysis of silver data; annotated by the agreement of multiple classifiers, and the resulting impact on building a new classifier.
-  link: theses_pdf/bootstrapping_receptive_language.pdf
-  image: images/theses/mhp_reddit.png
-
-- title: Controllable Generation Using kNN Language Models
-  type: thesis
-  description: Language modeling forms the foundation of many language processing problems and involves predicting which words come next in a sequence. Recent work on kNN language models has shown improved perplexity by storing encodings of sentence contexts and retrieving similar contexts to alter the probability distribution when predicting the next token(Khandelwal et al. 2020). If we store not only the encoding, but also labeled stylistic attributes of a sentence (e.g.politeness, formality, toxicity), can we use this to control generated language to contain these attributes to higher or lower degrees while preserving fluency? How can these stored attributes and encodings be leveraged most effectively?
-  link: theses_pdf/generation_knn_models.pdf
-  image: images/theses/lm_1.png
-
 - title: Investigating the level of stubbornness regarding sociopolitical views in social media
   type: thesis
   description: While social media platforms help to connect people worldwide and give access to enormous amounts of diverse information, they also foster an environment that promotes polarization. This occurs due to the fact that users show a tendency to consume content that aligns with their political leaning and join groups adhering to their beliefs. This phenomenon leads to the formation of segregated clusters, which are known as “echo chambers”. We aim to investigate the opinion formation between different user groups depending on the diversity of information they encounter through their social media usage. This analysis involves clusters formed based on (a) their political ideologies and (b) their tendency to disseminate false information.
   link: theses_pdf/investigating_stubbornness.pdf
   image: images/theses/stubbornness.png
-
-- title: Extending Receptive Text Generation Models for Longer Documents
-  type: thesis
-  description: Receptive communication, or the willingness to engage thoughtfully with opposing views, is important to having cooperative, successful conversations. Our lab has obtained preliminary results on generating paraphrases of text input to create more receptive outputs. This preliminary work was performed on sentences and in this work we are interested in extending this to longer texts or documents. This adds additional challenges through the interplay of sentences conveying different information but sharing the same receptive style.
-  link: theses_pdf/receptive_text_generation.pdf
-  image: images/theses/paraphrase.jpg
-
-- title: Personalized Models for Fake News Detection
-  type: thesis
-  description: Detecting fake news online is an important and timely issue. We are interested in investigating personal differences in how fake news is spread and developing models to detect fake news. Our group has collected data for this task and for thousands of Reddit users. This can be used to test models for personalization from embeddings, language models, priming, or others. These models have been not been used for many downstream applications and we are interested to find out if these can be more widely applied and how performance differs on downstream tasks. Each method requires a different amount of computation and memory so there are trade-offs to consider.
-  link: theses_pdf/personalized_model_fake_news.pdf
-  image: images/theses/fake_news_1.jpg
 
 - title: Size matters - Data augmentation for stance detection
   type: thesis
@@ -109,11 +85,35 @@
   image: images/theses/size_matters.png
 
 # Ongoing Theses
-- title: Indoctrination Detection in History Textbooks through Entity Emotion Analysis 
-  type: ongoing_theses
-  image: images/theses/size_matters.png
+- title: Bootstrapping Receptive Communities for Classification of Receptive Language
+  type: ongoing_thesis
+  description: Receptiveness, or how willing someone is to thoughtfully engage with opposing views, is known to contribute to more successful conversational interactions. It is desirable to be able to identify this language automatically in order to analyze and build systems that use this type of language. A few receptiveness classifiers have been built using small existing datasets with receptiveness annotations. Using these, what Reddit communities do we hypothesize will be more or less receptive? What makes them receptive and how do they differ? Leveraging data from receptive communities, we can retrain a receptiveness classifier and evaluate it using annotated data. Additional experiments may include analysis of silver data; annotated by the agreement of multiple classifiers, and the resulting impact on building a new classifier.
+  link: theses_pdf/bootstrapping_receptive_language.pdf
+  image: images/theses/mhp_reddit.png
+
+- title: Personalized Models for Fake News Detection
+  type: ongoing_thesis
+  description: Detecting fake news online is an important and timely issue. We are interested in investigating personal differences in how fake news is spread and developing models to detect fake news. Our group has collected data for this task and for thousands of Reddit users. This can be used to test models for personalization from embeddings, language models, priming, or others. These models have been not been used for many downstream applications and we are interested to find out if these can be more widely applied and how performance differs on downstream tasks. Each method requires a different amount of computation and memory so there are trade-offs to consider.
+  link: theses_pdf/personalized_model_fake_news.pdf
+  image: images/theses/fake_news_1.jpg
+
+- title: Extending Receptive Text Generation Models for Longer Documents
+  type: ongoing_thesis
+  description: Receptive communication, or the willingness to engage thoughtfully with opposing views, is important to having cooperative, successful conversations. Our lab has obtained preliminary results on generating paraphrases of text input to create more receptive outputs. This preliminary work was performed on sentences and in this work we are interested in extending this to longer texts or documents. This adds additional challenges through the interplay of sentences conveying different information but sharing the same receptive style.
+  link: theses_pdf/receptive_text_generation.pdf
+  image: images/theses/paraphrase.jpg
+
+- title: Controllable Generation Using kNN Language Models
+  type: ongoing_thesis
+  description: Language modeling forms the foundation of many language processing problems and involves predicting which words come next in a sequence. Recent work on kNN language models has shown improved perplexity by storing encodings of sentence contexts and retrieving similar contexts to alter the probability distribution when predicting the next token(Khandelwal et al. 2020). If we store not only the encoding, but also labeled stylistic attributes of a sentence (e.g.politeness, formality, toxicity), can we use this to control generated language to contain these attributes to higher or lower degrees while preserving fluency? How can these stored attributes and encodings be leveraged most effectively?
+  link: theses_pdf/generation_knn_models.pdf
+  image: images/theses/lm_1.png
 
 # Finished theses
+- title: Indoctrination Detection in History Textbooks through Entity Emotion Analysis 
+  type: finished_thesis
+  image: images/theses/size_matters.png
+
 - title: Sociodemographic Proﬁling of Social Media Opinion Bubbles and Users vulnerable to Fake News
   type: finished_thesis
   #link: theses_pdf/finished/henri_geiss.pdf

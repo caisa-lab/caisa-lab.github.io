@@ -4,7 +4,7 @@ title: Theses
 
 # <i class="fas fa-tools"></i>Theses
 
-There are some specificities of how the master thesis works in our group, mainly:
+There are some specificities of how the bachelor/master thesis works in our group, mainly:
 
 - the students are an integral part of our group, i.e. participate in the online chat and in the bi-weekly online group meetings (~1 hour Wednesdays) and online standups (10 min. Monday and Friday)
 - the master thesis usually takes about 6 months (it is planned for about 20-24 weeks)
@@ -24,14 +24,14 @@ If you are interested in doing your bachelor or master thesis or a study project
 
 {% include centerer.html html=html %}
 
-<!-- 
+
 ## Ongoing Theses
 {% capture html %}
 {% include resource-list.html type="ongoing_thesis" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
--->
+
 
 ## Finished Theses
 {% capture html %}
