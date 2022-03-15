@@ -24,6 +24,7 @@ If you are interested in doing your bachelor or master thesis or a study project
 
 {% include centerer.html html=html %}
 
+<!-- section break -->
 
 ## Ongoing Theses
 {% capture html %}
@@ -32,6 +33,7 @@ If you are interested in doing your bachelor or master thesis or a study project
 
 {% include centerer.html html=html %}
 
+<!-- section break -->
 
 ## Finished Theses
 {% capture html %}
