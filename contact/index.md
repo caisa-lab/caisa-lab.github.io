@@ -27,17 +27,23 @@ Office hours: by appointment
 
 ## Office
 
-Katja Feisel
+Katrin Bopper
 <br>
-Room: 04A29 (Staircase A, Level 4)
+Room: 04C20B (Staircase C, Level 4)
 <br>
-Phone: 06421 / 28 - 22185
+Phone: 06421 / 28 - 21585
 <br>
 Fax: 06421 / 28 - 28902
 <br>
-[feiselk@informatik*](mailto:feiselk@informatik)
+[bopper@mathematik*](mailto:bopper@mathematik)
 <br>
-Office hours: by appointment
+Office hours:
+<br>
+Monday &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10:00 – 17:30
+<br>
+Wednesday &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	10:00 – 17:00
+<br>
+Thursday &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10:00 – 17:00
 
 &#8291;* To obtain a correct e-mail address please add "**.uni-marburg.de**".
 
