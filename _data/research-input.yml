@@ -53,7 +53,6 @@
 # If there is no arxiv / doi available for a paper, a bibtex citation can be added to the
 # "research-input.bib" file. Then, the paper can be added via "id: localbib:citekey".
 
-
 # Lucie's publications
 - id: arxiv:2001.06910
 - id: doi:10.18653/v1/2020.acl-main.700
@@ -88,4 +87,12 @@
 # - id: localbib:welch-etal-2018-world
 # - id: localbib:shen-etal-2020-counseling
 
-
+# Akbar's publications
+- id: arxiv:2001.11316
+- id: arxiv:2004.13665
+- id: arxiv:1711.00681
+- id: arxiv:2010.11731
+- id: arxiv:2108.13230
+- id: arxiv:2002.10016
+- id: arxiv:2103.09645
+- id: arxiv:2104.01329

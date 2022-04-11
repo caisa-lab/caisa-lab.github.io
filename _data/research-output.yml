@@ -226,3 +226,77 @@
   date: '2021-01-01'
   link: https://doi.org/gm2twv
   id: doi:10.18653/v1/2021.findings-acl.392
+- title: Adversarial Training for Aspect-Based Sentiment Analysis with BERT
+  authors:
+  - Akbar Karimi
+  - Leonardo Rossi
+  - Andrea Prati
+  publisher: arXiv
+  date: '2020-10-26'
+  link: https://arxiv.org/abs/2001.11316
+  id: arxiv:2001.11316
+- title: A novel Region of Interest Extraction Layer for Instance Segmentation
+  authors:
+  - Leonardo Rossi
+  - Akbar Karimi
+  - Andrea Prati
+  publisher: arXiv
+  date: '2020-10-02'
+  link: https://arxiv.org/abs/2004.13665
+  id: arxiv:2004.13665
+- title: Extracting an English-Persian Parallel Corpus from Comparable Corpora
+  authors:
+  - Akbar Karimi
+  - Ebrahim Ansari
+  - Bahram Sadeghi Bigham
+  publisher: arXiv
+  date: '2019-04-02'
+  link: https://arxiv.org/abs/1711.00681
+  id: arxiv:1711.00681
+- title: Improving BERT Performance for Aspect-Based Sentiment Analysis
+  authors:
+  - Akbar Karimi
+  - Leonardo Rossi
+  - Andrea Prati
+  publisher: arXiv
+  date: '2021-03-02'
+  link: https://arxiv.org/abs/2010.11731
+  id: arxiv:2010.11731
+- title: 'AEDA: An Easier Data Augmentation Technique for Text Classification'
+  authors:
+  - Akbar Karimi
+  - Leonardo Rossi
+  - Andrea Prati
+  publisher: arXiv
+  date: '2021-08-31'
+  link: https://arxiv.org/abs/2108.13230
+  id: arxiv:2108.13230
+- title: Deep Multimodal Image-Text Embeddings for Automatic Cross-Media Retrieval
+  authors:
+  - Hadi Abdi Khojasteh
+  - Ebrahim Ansari
+  - Parvin Razzaghi
+  - Akbar Karimi
+  publisher: arXiv
+  date: '2020-02-28'
+  link: https://arxiv.org/abs/2002.10016
+  id: arxiv:2002.10016
+- title: 'UniParma at SemEval-2021 Task 5: Toxic Spans Detection Using CharacterBERT
+    and Bag-of-Words Model'
+  authors:
+  - Akbar Karimi
+  - Leonardo Rossi
+  - Andrea Prati
+  publisher: arXiv
+  date: '2021-04-12'
+  link: https://arxiv.org/abs/2103.09645
+  id: arxiv:2103.09645
+- title: 'Recursively Refined R-CNN: Instance Segmentation with Self-RoI Rebalancing'
+  authors:
+  - Leonardo Rossi
+  - Akbar Karimi
+  - Andrea Prati
+  publisher: arXiv
+  date: '2021-08-03'
+  link: https://arxiv.org/abs/2104.01329
+  id: arxiv:2104.01329

@@ -1,0 +1,26 @@
+{% assign theses = site.data.theses %}
+
+{% if include.type != nil %}
+{% if include.type == "" %}
+{% assign type = nil %}
+{% else %}
+{% assign type = include.type %}
+{% endif %}
+{% assign theses = theses | where_exp: "theses", "theses.type == type" %}
+{% endif %}
+
+{% for these in theses %}
+{% capture tags %}
+{% include tags.html repo=these.repo %}
+{% endcapture %}
+
+{%-
+  include card.html
+  size=include.size
+  heading=these.title
+  image=these.image
+  link=these.link
+  row1=these.description
+  row2=tags
+-%}
+{% endfor %}

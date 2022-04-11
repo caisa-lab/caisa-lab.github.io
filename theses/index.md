@@ -19,7 +19,7 @@ If you are interested in doing your bachelor or master thesis or a study project
 ## Open Theses Topics
 
 {% capture html %}
-{% include resource-list.html type="thesis" size="small" %}
+{% include theses-list.html type="thesis" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
@@ -28,7 +28,7 @@ If you are interested in doing your bachelor or master thesis or a study project
 
 ## Ongoing Theses
 {% capture html %}
-{% include resource-list.html type="ongoing_thesis" size="small" %}
+{% include theses-list.html type="ongoing_thesis" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
@@ -37,7 +37,7 @@ If you are interested in doing your bachelor or master thesis or a study project
 
 ## Finished Theses
 {% capture html %}
-{% include resource-list.html type="finished_thesis" size="small" %}
+{% include theses-list.html type="finished_thesis" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
