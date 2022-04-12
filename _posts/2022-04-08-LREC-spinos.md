@@ -122,7 +122,7 @@ This figure shows the values of the inter-annotator agreements between non-exper
 {%
   include figure.html
   image="images/spinos/stacked_compare.png"
-  caption="STACKED COMPARE"
+  caption=""
   width="550px"
 %}
 <!-- ![stacked_compare](../../../images/spinos/stacked_compare.png) -->
@@ -164,11 +164,10 @@ This figure shows a selected sample of annotated posts from one specific user an
   width="550px"
 %}
 
-<!-- ![opinion_change](../../../images/spinos/opinion_change.png)>
 
 We computed the user's entropy as an indicator of opinion change; *high entropy* users tend to oscillate between different stances, while users with *low entropy* have a stable opinion polarity and might only change the intensity of their stance. 
 
-This figure shows the evolution of the opinionated users' stances through time for the topic abortion.
+This figure shows the evolution of the opinionated users' stances through time for the topic abortion. Each row represents a distinct user and each block represents a post and that user’s stance towards a topic. On the y axis we show each user’s entropy.
 <!-- <p align="center">
 <img src="https://github.com/caisa-lab/SPINOS-dataset/blob/main/images/legend.png" width="50%"> -->
 {%
@@ -192,7 +191,7 @@ This figure shows the evolution of the opinionated users' stances through time f
 
 Most users change the polarity of their stance, however they rarely show strong intensities for both polarities. After further investigation, we observe vacillating attitudes in users with posting periods of over one month (similar patterns in opinion change are present for the rest of the topics).
 
-This figure shows the evolution of the users’ stance within a thread. Each row represents a distinct user and each block represents a post and that user’s stance towards a topic. On the y axis we show each user’s entropy.
+This figure shows the evolution of the users’ stance within a thread.
 
 {%
   include figure.html
