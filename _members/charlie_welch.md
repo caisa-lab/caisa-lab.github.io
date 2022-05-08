@@ -6,7 +6,7 @@ search:
   - Charles Welch
 role: postdoc
 group: current
-image: images/team/charlie_welch.jpg
+image: images/team/charlie_welch_2.jpg
 github: cfwelch
 email: \{name\}.{surname}@uni-marburg.de
 twitter: ytaipsw
