@@ -41,6 +41,18 @@
   link: theses_pdf/open/size_matters.pdf
   image: images/theses/size_matters.png
 
+- title: Banned Books! Investigating Objections to Published Content
+  type: thesis
+  description: This project will investigate the arguments people use to advocate that a book should be banned. This data may come from multiple sources, including social media, and data collected by other researchers. We will look to understand how these complaints relate to or reflect the actual content of books. Optionally, we could examine a broader context of banned books outside the USA. The interested student should have some experience with machine learning or natural language processing.
+  link: theses_pdf/open/Banned books.pdf
+  image: images/theses/banned_books.jpg
+
+- title: Chatbots for Better Science
+  type: thesis
+  description: We will work on building a customizable chatbot that can be set up to facilitate conversations about different subjects of interest. We will work with a bioethicist to construct a chatbot that can most effectively carry out this task. The bot will start with a set of rules and we will explore ways to expand upon it’s functionality which may involve the construction of classifiers using machine learning for the purpose of better understanding user values, interests, or questions. The interested student should have some experience with natural language processing and web development.
+  link: theses_pdf/open/Chatbots for better science.pdf
+  image: images/theses/chatbots_science.png
+
 # Ongoing Theses
 - title: Bootstrapping Receptive Communities for Classification of Receptive Language
   type: ongoing_thesis
