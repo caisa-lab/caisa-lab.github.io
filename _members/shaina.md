@@ -6,8 +6,10 @@ search:
   - Shaina Ashraf
 role: phd
 group: current
-image: 
-email: 
-github: 
-twitter: 
+image: images/team/shaina_ashraf.png
+email: \{name\}mscs@gmail.com
+github: shaina-ashraf
+twitter: shaina2231
 ---
+
+My area of research interest lies in training machines to learn and predict human behavior i.e., author profiling, sentiment analysis etc. Currently my PhD research is focusing on the development of methods and technologies to analyze the mass spread of disinformation among social media and potentially counteract it using machine learning techniques. 

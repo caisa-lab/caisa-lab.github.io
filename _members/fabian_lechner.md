@@ -5,7 +5,7 @@ search:
   - F Lechner
   - Fabian Lechner
 role: master
-group: current
+group: alum
 image: images/team/fabian_lechner.jpg
 github: fabianslife
 twitter: fabianslife
