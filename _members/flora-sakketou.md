@@ -7,7 +7,7 @@ search:
 role: postdoc
 group: current
 email: \{name\}.{surname}@uni-marburg.de
-image: images/team/flora_sakketou.jpg
+image: images/team/Flora_Sakketou_Photo.jpg
 ---
 
 My research activity is primarily focused on developing optimization algorithms and deep learning architectures and applying them to large scale Natural Language Processing (NLP) problems.
