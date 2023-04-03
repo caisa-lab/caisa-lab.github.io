@@ -1,14 +1,15 @@
 ---
-title: Lea
+title: Lea Fischbach
 search:
+  - Lea Fischbach
   - Lea
-  - Lea
-  - Lea
+  - Fischbach
 role: phd
 group: current
-image: 
+image: images/team/fischbach.jpg
 email: 
 github: 
 twitter: 
 ---
+
 
