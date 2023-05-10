@@ -4,26 +4,25 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides at the 
-[Department of Mathematics and Computer Science](https://www.uni-marburg.de/en/fb12) of the Philipps Universität Marburg in Germany.
+CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides at the [Bonn-Aachen International Center for Information Technology (b-it)](https://www.b-it-center.de) in Bonn Germany. 
 
-{% include figure.html image="images/marburg.jpg" width="100%" %}
+{% include figure.html image="images/bonn.jpeg" width="100%" %}
 
 ## Professor
 
 Prof. Dr. Lucie Flek
 <br>
-Room: 04C21 (Staircase C, Level 4)
+Room: 2.123 (2nd Floor)
 <br>
-Phone: 06421 / 28 - 21586
+Phone: +49 228 73 69200
 <br>
-Fax: 06421 / 28 - 28902
+Fax: +49 228-73-4382
 <br>
-[flek@informatik*](mailto:flek@informatik)
+[flek@bit*](mailto:flek@bit)
 <br>
 Office hours: by appointment
 
-&#8291;* To obtain a correct e-mail address please add "**.uni-marburg.de**".
+&#8291;* To obtain a correct e-mail address please add "**.uni-bonn.de**".
 
 ## Office
 
@@ -51,8 +50,10 @@ Thursday &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10:00 – 17:00
 
 CAISA Lab
 <br>
-FB 12 | Mathematik und Informatik
+B-it center
 <br>
-Hans-Meerwein-Straße 6
+Friedrich-Hirzebruch-Allee 6
 <br>
-35043 Marburg
+D-53115 Bonn
+<br>
+Germany
