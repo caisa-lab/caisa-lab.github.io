@@ -72,20 +72,23 @@
 # Joan's publications
 - id: localbib:eacl-2020-qa
 - id: localbib:plepi2021carton
-#- id: localbib:plepi-flek-2021-perceived-intended-sarcasm
+- id: localbib:plepi-flek-2021-perceived-intended-sarcasm
+- id: localbib:sakketou-etal-2022-factoid
+- id: localbib:welch-etal-2022-understanding
+- id: localbib:plepi-etal-2022-unifying
+- id: localbib:sakketou-etal-2022-temporal
+- id: arXiv:2204.13329 
 
 # Charlie's publications
-#- id: localbib:welch-mihalcea-2016-targeted
+- id: localbib:welch-mihalcea-2016-targeted
 - id: doi:10.18653/v1/2020.emnlp-main.696
 - id: doi:10.1109/MIS.2019.2916965
 - id: arxiv:1904.11610
-- id: arXiv:2007.03819
 - id: doi:10.18653/v1/2020.emnlp-main.334
 - id: doi:10.18653/v1/2020.coling-main.604
-- id: doi:10.18653/v1/2021.findings-acl.392
-# - id: localbib:Welch16Targeted
-# - id: localbib:welch-etal-2018-world
-# - id: localbib:shen-etal-2020-counseling
+#- id: localbib:Welch16Targeted
+#- id: localbib:welch-etal-2018-world
+#- id: localbib:shen-etal-2020-counseling
 
 # Akbar's publications
 - id: arxiv:2001.11316
@@ -96,3 +99,11 @@
 - id: arxiv:2002.10016
 - id: arxiv:2103.09645
 - id: arxiv:2104.01329
+
+# Allie's publications
+- id: localbib:lahnala-etal-2022-caisa
+- id: localbib:lahnala-etal-2022-mitigating
+- id: localbib:sakketou-etal-2022-investigating
+- id: localbib:lahnala-etal-2022-critical
+- id: localbib:lahnala-etal-2021-exploring
+- id: localbib:welch-etal-2020-expressive

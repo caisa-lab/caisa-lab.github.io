@@ -146,6 +146,84 @@
   publisher: Eighteenth Extended Semantic Web Conference - Research Track
   date: '2021-05-05'
   id: localbib:plepi2021carton
+- title: Perceived and intended sarcasm detection with graph attention networks
+  authors:
+  - Joan Plepi
+  - Lucie Flek
+  publisher: 'Findings of the association for computational linguistics: EMNLP 2021'
+  date: '2021-11-01'
+  link: https://aclanthology.org/2021.findings-emnlp.408
+  id: localbib:plepi-flek-2021-perceived-intended-sarcasm
+- title: 'FACTOID: A new dataset for identifying misinformation spreaders and political
+    bias'
+  authors:
+  - Flora Sakketou
+  - Joan Plepi
+  - Riccardo Cervero
+  - Henri Jacques Geiss
+  - Paolo Rosso
+  - Lucie Flek
+  publisher: Proceedings of the thirteenth language resources and evaluation conference
+  date: '2022-06-01'
+  link: https://aclanthology.org/2022.lrec-1.345
+  id: localbib:sakketou-etal-2022-factoid
+- title: Understanding interpersonal conflict types and their impact on perception
+    classification
+  authors:
+  - Charles Welch
+  - Joan Plepi
+  - "B\xE9la Neuendorf"
+  - Lucie Flek
+  publisher: Proceedings of the fifth workshop on natural language processing and
+    computational social science (NLP+CSS)
+  date: '2022-11-01'
+  link: https://aclanthology.org/2022.nlpcss-1.10
+  id: localbib:welch-etal-2022-understanding
+- title: 'Unifying data perspectivism and personalization: An application to social
+    norms'
+  authors:
+  - Joan Plepi
+  - "B\xE9la Neuendorf"
+  - Lucie Flek
+  - Charles Welch
+  publisher: Proceedings of the 2022 conference on empirical methods in natural language
+    processing
+  date: '2022-12-01'
+  link: https://aclanthology.org/2022.emnlp-main.500
+  id: localbib:plepi-etal-2022-unifying
+- title: Temporal graph analysis of misinformation spreaders in social media
+  authors:
+  - Joan Plepi
+  - Flora Sakketou
+  - Henri-Jacques Geiss
+  - Lucie Flek
+  publisher: 'Proceedings of TextGraphs-16: Graph-based methods for natural language
+    processing'
+  date: '2022-10-01'
+  link: https://aclanthology.org/2022.textgraphs-1.10
+  id: localbib:sakketou-etal-2022-temporal
+- title: Refining Diagnosis Paths for Medical Diagnosis based on an Augmented Knowledge
+    Graph
+  authors:
+  - Niclas Heilig
+  - Jan Kirchhoff
+  - Florian Stumpe
+  - Joan Plepi
+  - Lucie Flek
+  - Heiko Paulheim
+  publisher: arXiv
+  date: '2022-04-29'
+  link: https://arxiv.org/abs/2204.13329
+  id: arXiv:2204.13329
+- title: Targeted sentiment to understand student comments
+  authors:
+  - Charles Welch
+  - Rada Mihalcea
+  publisher: 'Proceedings of COLING 2016, the 26th international conference on computational
+    linguistics: Technical papers'
+  date: '2016-12-01'
+  link: https://aclanthology.org/C16-1233
+  id: localbib:welch-mihalcea-2016-targeted
 - title: Improving Low Compute Language Modeling with In-Domain Embedding Initialisation
   authors:
   - Charles Welch
@@ -177,21 +255,6 @@
   date: '2019-04-29'
   link: https://arxiv.org/abs/1904.11610
   id: arxiv:1904.11610
-- title: 'Expressive Interviewing: A Conversational System for Coping with COVID-19'
-  authors:
-  - Charles Welch
-  - Allison Lahnala
-  - "Ver\xF3nica P\xE9rez-Rosas"
-  - Siqi Shen
-  - Sarah Seraj
-  - Larry An
-  - Kenneth Resnicow
-  - James Pennebaker
-  - Rada Mihalcea
-  publisher: arXiv
-  date: '2020-07-09'
-  link: https://arxiv.org/abs/2007.03819
-  id: arXiv:2007.03819
 - title: Compositional Demographic Word Embeddings
   authors:
   - Charles Welch
@@ -212,20 +275,6 @@
   date: '2020-01-01'
   link: https://doi.org/gm2tws
   id: doi:10.18653/v1/2020.coling-main.604
-- title: Exploring Self-Identified Counseling Expertise in Online Support Forums
-  authors:
-  - Allison Lahnala
-  - Yuntian Zhao
-  - Charles Welch
-  - Jonathan K. Kummerfeld
-  - Lawrence C An
-  - Kenneth Resnicow
-  - Rada Mihalcea
-  - "Ver\xF3nica P\xE9rez-Rosas"
-  publisher: Association for Computational Linguistics (ACL)
-  date: '2021-01-01'
-  link: https://doi.org/gm2twv
-  id: doi:10.18653/v1/2021.findings-acl.392
 - title: Adversarial Training for Aspect-Based Sentiment Analysis with BERT
   authors:
   - Akbar Karimi
@@ -300,3 +349,78 @@
   date: '2021-08-03'
   link: https://arxiv.org/abs/2104.01329
   id: arxiv:2104.01329
+- title: 'CAISA at WASSA 2022: Adapter-tuning for empathy prediction'
+  authors:
+  - Allison Lahnala
+  - Charles Welch
+  - Lucie Flek
+  publisher: Proceedings of the 12th workshop on computational approaches to subjectivity,
+    sentiment & social media analysis
+  date: '2022-05-01'
+  link: https://aclanthology.org/2022.wassa-1.31
+  id: localbib:lahnala-etal-2022-caisa
+- title: 'Mitigating toxic degeneration with empathetic data: Exploring the relationship
+    between toxicity and empathy'
+  authors:
+  - Allison Lahnala
+  - Charles Welch
+  - "B\xE9la Neuendorf"
+  - Lucie Flek
+  publisher: 'Proceedings of the 2022 conference of the north american chapter of
+    the association for computational linguistics: Human language technologies'
+  date: '2022-07-01'
+  link: https://aclanthology.org/2022.naacl-main.363
+  id: localbib:lahnala-etal-2022-mitigating
+- title: 'Investigating user radicalization: A novel dataset for identifying fine-grained
+    temporal shifts in opinion'
+  authors:
+  - Flora Sakketou
+  - Allison Lahnala
+  - Liane Vogel
+  - Lucie Flek
+  publisher: Proceedings of the thirteenth language resources and evaluation conference
+  date: '2022-06-01'
+  link: https://aclanthology.org/2022.lrec-1.405
+  id: localbib:sakketou-etal-2022-investigating
+- title: A critical reflection and forward perspective on empathy and natural language
+    processing
+  authors:
+  - Allison Lahnala
+  - Charles Welch
+  - David Jurgens
+  - Lucie Flek
+  publisher: 'Findings of the association for computational linguistics: EMNLP 2022'
+  date: '2022-12-01'
+  link: https://aclanthology.org/2022.findings-emnlp.157
+  id: localbib:lahnala-etal-2022-critical
+- title: Exploring self-identified counseling expertise in online support forums
+  authors:
+  - Allison Lahnala
+  - Yuntian Zhao
+  - Charles Welch
+  - Jonathan K. Kummerfeld
+  - Lawrence C An
+  - Kenneth Resnicow
+  - Rada Mihalcea
+  - "Ver\xF3nica P\xE9rez-Rosas"
+  publisher: 'Findings of the association for computational linguistics: ACL-IJCNLP
+    2021'
+  date: '2021-08-01'
+  link: https://aclanthology.org/2021.findings-acl.392
+  id: localbib:lahnala-etal-2021-exploring
+- title: 'Expressive interviewing: A conversational system for coping with COVID-19'
+  authors:
+  - Charles Welch
+  - Allison Lahnala
+  - Veronica Perez-Rosas
+  - Siqi Shen
+  - Sarah Seraj
+  - Larry An
+  - Kenneth Resnicow
+  - James Pennebaker
+  - Rada Mihalcea
+  publisher: Proceedings of the 1st workshop on NLP for COVID-19 (part 2) at EMNLP
+    2020
+  date: '2020-12-01'
+  link: https://aclanthology.org/2020.nlpcovid19-2.6
+  id: localbib:welch-etal-2020-expressive

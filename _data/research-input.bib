@@ -26,21 +26,21 @@
 
 @inproceedings{eacl-2020-phase,
     title = "PHASE: Learning Emotional Phase-aware Representations for Suicide Ideation Detection on Social Media",
-    author="Sawhney, Ramit and Joshi, Harshit, and Flek, Lucie and Shah, Rajiv Ratn"
+    author="Sawhney, Ramit and Joshi, Harshit, and Flek, Lucie and Shah, Rajiv Ratn",
     year = "2021",
     address = "Kiev (virtual)",
-    pages="(to appear)"
-    booktitle="Proceedings of EACL 2021, The 16th Conference of the European Chapter of the Association for Computational Linguistics"
+    pages="(to appear)",
+    booktitle="Proceedings of EACL 2021, The 16th Conference of the European Chapter of the Association for Computational Linguistics",
     publisher = "Association for Computational Linguistics",
 }
 
 @inproceedings{eacl-2020-qa,
     title = "Conversational Question Answering over Knowledge Graphs with Transformer and Graph Attention Networks",
-    author="Plepi, Joan and Kacupaj, Endri, and Singh, Kuldeep, and Thakkar, Harsh and Lehmann, Jens and Maleshkova, Maria"
+    author="Plepi, Joan and Kacupaj, Endri, and Singh, Kuldeep, and Thakkar, Harsh and Lehmann, Jens and Maleshkova, Maria",
     year = "2021",
-    pages="(to appear)"
+    pages="(to appear)",
     address = "Kiev (virtual)",
-    booktitle="Proceedings of EACL 2021, The 16th Conference of the European Chapter of the Association for Computational Linguistics"
+    booktitle="Proceedings of EACL 2021, The 16th Conference of the European Chapter of the Association for Computational Linguistics",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.eacl-main.72/"
 }
@@ -70,41 +70,204 @@
     abstract = "Recent psychological studies indicate that individuals exhibiting suicidal ideation increasingly turn to social media rather than mental health practitioners. Personally contextualizing the buildup of such ideation is critical for accurate identification of users at risk. In this work, we propose a framework jointly leveraging a user{'}s emotional history and social information from a user{'}s neighborhood in a network to contextualize the interpretation of the latest tweet of a user on Twitter. Reflecting upon the scale-free nature of social network relationships, we propose the use of Hyperbolic Graph Convolution Networks, in combination with the Hawkes process to learn the historical emotional spectrum of a user in a time-sensitive manner. Our system significantly outperforms state-of-the-art methods on this task, showing the benefits of both socially and personally contextualized representations.",
 }
 
-
-@inproceedings{Welch16Targeted,
-    author = {Welch, Charles and Mihalcea, Rada},
-    title = {Targeted Sentiment to Understand Student Comments},
-    booktitle = {Proceedings of the International Conference on Computational Linguistics (COLING 2016)},
-    address = {Osaka, Japan},
-    year = {2016}
-}
-
-@inproceedings{welch-etal-2018-world,
-    title = "World Knowledge for {A}bstract {M}eaning {R}epresentation Parsing",
+@inproceedings{welch-mihalcea-2016-targeted,
+    title = "Targeted Sentiment to Understand Student Comments",
     author = "Welch, Charles  and
-      Kummerfeld, Jonathan K.  and
-      Feng, Song  and
       Mihalcea, Rada",
-    booktitle = "Proceedings of the Eleventh International Conference on Language Resources and Evaluation ({LREC} 2018)",
-    month = may,
-    year = "2018",
-    address = "Miyazaki, Japan",
-    publisher = "European Language Resources Association (ELRA)",
-    url = "https://aclanthology.org/L18-1492",
+    booktitle = "Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers",
+    month = dec,
+    year = "2016",
+    address = "Osaka, Japan",
+    publisher = "The COLING 2016 Organizing Committee",
+    url = "https://aclanthology.org/C16-1233",
+    pages = "2471--2481",
+    abstract = "We address the task of targeted sentiment as a means of understanding the sentiment that students hold toward courses and instructors, as expressed by students in their comments. We introduce a new dataset consisting of student comments annotated for targeted sentiment and describe a system that can both identify the courses and instructors mentioned in student comments, as well as label the students{'} sentiment toward those entities. Through several comparative evaluations, we show that our system outperforms previous work on a similar task.",
 }
 
-@inproceedings{shen-etal-2020-counseling,
-    title = "Counseling-Style Reflection Generation Using Generative Pretrained Transformers with Augmented Context",
-    author = "Shen, Siqi  and
+@inproceedings{plepi-flek-2021-perceived-intended-sarcasm,
+    title = "Perceived and Intended Sarcasm Detection with Graph Attention Networks",
+    author = "Plepi, Joan  and
+      Flek, Lucie",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.408",
+    doi = "10.18653/v1/2021.findings-emnlp.408",
+    pages = "4746--4753",
+    abstract = "Existing sarcasm detection systems focus on exploiting linguistic markers, context, or user-level priors. However, social studies suggest that the relationship between the author and the audience can be equally relevant for the sarcasm usage and interpretation. In this work, we propose a framework jointly leveraging (1) a user context from their historical tweets together with (2) the social information from a user{'}s neighborhood in an interaction graph, to contextualize the interpretation of the post. We distinguish between perceived and self-reported sarcasm identification. We use graph attention networks (GAT) over users and tweets in a conversation thread, combined with various dense user history representations. Apart from achieving state-of-the-art results on the recently published dataset of 19k Twitter users with 30K labeled tweets, adding 10M unlabeled tweets as context, our experiments indicate that the graph network contributes to interpreting the sarcastic intentions of the author more than to predicting the sarcasm perception by others.",
+}
+
+@inproceedings{sakketou-etal-2022-factoid,
+    title = "{FACTOID}: A New Dataset for Identifying Misinformation Spreaders and Political Bias",
+    author = "Sakketou, Flora  and
+      Plepi, Joan  and
+      Cervero, Riccardo  and
+      Geiss, Henri Jacques  and
+      Rosso, Paolo  and
+      Flek, Lucie",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.345",
+    pages = "3231--3241",
+    abstract = "Proactively identifying misinformation spreaders is an important step towards mitigating the impact of fake news on our society. In this paper, we introduce a new contemporary Reddit dataset for fake news spreader analysis, called FACTOID, monitoring political discussions on Reddit since the beginning of 2020. The dataset contains over 4K users with 3.4M Reddit posts, and includes, beyond the users{'} binary labels, also their fine-grained credibility level (very low to very high) and their political bias strength (extreme right to extreme left). As far as we are aware, this is the first fake news spreader dataset that simultaneously captures both the long-term context of users{'} historical posts and the interactions between them. To create the first benchmark on our data, we provide methods for identifying misinformation spreaders by utilizing the social connections between the users along with their psycho-linguistic features. We show that the users{'} social interactions can, on their own, indicate misinformation spreading, while the psycho-linguistic features are mostly informative in non-neural classification settings. In a qualitative analysis we observe that detecting affective mental processes correlates negatively with right-biased users, and that the openness to experience factor is lower for those who spread fake news.",
+}
+
+@inproceedings{welch-etal-2022-understanding,
+    title = "Understanding Interpersonal Conflict Types and their Impact on Perception Classification",
+    author = "Welch, Charles  and
+      Plepi, Joan  and
+      Neuendorf, B{\'e}la  and
+      Flek, Lucie",
+    booktitle = "Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS)",
+    month = nov,
+    year = "2022",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.nlpcss-1.10",
+    pages = "79--88",
+    abstract = "Studies on interpersonal conflict have a long history and contain many suggestions for conflict typology. We use this as the basis of a novel annotation scheme and release a new dataset of situations and conflict aspect annotations. We then build a classifier to predict whether someone will perceive the actions of one individual as right or wrong in a given situation. Our analyses include conflict aspects, but also generated clusters, which are human validated, and show differences in conflict content based on the relationship of participants to the author. Our findings have important implications for understanding conflict and social norms.",
+}
+
+@inproceedings{plepi-etal-2022-unifying,
+    title = "Unifying Data Perspectivism and Personalization: An Application to Social Norms",
+    author = "Plepi, Joan  and
+      Neuendorf, B{\'e}la  and
+      Flek, Lucie  and
+      Welch, Charles",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.500",
+    pages = "7391--7402",
+    abstract = "Instead of using a single ground truth for language processing tasks, several recent studies have examined how to represent and predict the labels of the set of annotators. However, often little or no information about annotators is known, or the set of annotators is small. In this work, we examine a corpus of social media posts about conflict from a set of 13k annotators and 210k judgements of social norms. We provide a novel experimental setup that applies personalization methods to the modeling of annotators and compare their effectiveness for predicting the perception of social norms. We further provide an analysis of performance across subsets of social situations that vary by the closeness of the relationship between parties in conflict, and assess where personalization helps the most.",
+}
+
+@inproceedings{sakketou-etal-2022-temporal,
+    title = "Temporal Graph Analysis of Misinformation Spreaders in Social Media",
+    author = "Plepi, Joan  and
+      Sakketou, Flora  and
+      Geiss, Henri-Jacques  and
+      Flek, Lucie",
+    booktitle = "Proceedings of TextGraphs-16: Graph-based Methods for Natural Language Processing",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.textgraphs-1.10",
+    pages = "89--104",
+    abstract = "Proactively identifying misinformation spreaders is an important step towards mitigating the impact of fake news on our society. Although the news domain is subject to rapid changes over time, the temporal dynamics of the spreaders{'} language and network have not been explored yet. In this paper, we analyze the users{'} time-evolving semantic similarities and social interactions and show that such patterns can, on their own, indicate misinformation spreading. Building on these observations, we propose a dynamic graph-based framework that leverages the dynamic nature of the users{'} network for detecting fake news spreaders. We validate our design choice through qualitative analysis and demonstrate the contributions of our model{'}s components through a series of exploratory and ablative experiments on two datasets.",
+}
+
+# Allie
+@inproceedings{lahnala-etal-2022-caisa,
+    title = "{CAISA} at {WASSA} 2022: Adapter-Tuning for Empathy Prediction",
+    author = "Lahnala, Allison  and
       Welch, Charles  and
+      Flek, Lucie",
+    booktitle = "Proceedings of the 12th Workshop on Computational Approaches to Subjectivity, Sentiment {\&} Social Media Analysis",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.wassa-1.31",
+    doi = "10.18653/v1/2022.wassa-1.31",
+    pages = "280--285",
+    abstract = "We build a system that leverages adapters, a light weight and efficient method for leveraging large language models to perform the task Em- pathy and Distress prediction tasks for WASSA 2022. In our experiments, we find that stacking our empathy and distress adapters on a pre-trained emotion lassification adapter performs best compared to full fine-tuning approaches and emotion feature concatenation. We make our experimental code publicly available",
+}
+
+@inproceedings{lahnala-etal-2022-mitigating,
+    title = "Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy",
+    author = "Lahnala, Allison  and
+      Welch, Charles  and
+      Neuendorf, B{\'e}la  and
+      Flek, Lucie",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.363",
+    doi = "10.18653/v1/2022.naacl-main.363",
+    pages = "4926--4938",
+    abstract = "Large pre-trained neural language models have supported the effectiveness of many NLP tasks, yet are still prone to generating toxic language hindering the safety of their use. Using empathetic data, we improve over recent work on controllable text generation that aims to reduce the toxicity of generated text. We find we are able to dramatically reduce the size of fine-tuning data to 7.5-30k samples while at the same time making significant improvements over state-of-the-art toxicity mitigation of up to 3.4 absolute reduction (26 relative) from the original work on 2.3m samples, by strategically sampling data based on empathy scores. We observe that the degree of improvements is subject to specific communication components of empathy. In particular, the more cognitive components of empathy significantly beat the original dataset in almost all experiments, while emotional empathy was tied to less improvement and even underperforming random samples of the original data. This is a particularly implicative insight for NLP work concerning empathy as until recently the research and resources built for it have exclusively considered empathy as an emotional concept.",
+}
+
+@inproceedings{sakketou-etal-2022-investigating,
+    title = "Investigating User Radicalization: A Novel Dataset for Identifying Fine-Grained Temporal Shifts in Opinion",
+    author = "Sakketou, Flora  and
+      Lahnala, Allison  and
+      Vogel, Liane  and
+      Flek, Lucie",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.405",
+    pages = "3798--3808",
+    abstract = "There is an increasing need for the ability to model fine-grained opinion shifts of social media users, as concerns about the potential polarizing social effects increase. However, the lack of publicly available datasets that are suitable for the task presents a major challenge. In this paper, we introduce an innovative annotated dataset for modeling subtle opinion fluctuations and detecting fine-grained stances. The dataset includes a sufficient amount of stance polarity and intensity labels per user over time and within entire conversational threads, thus making subtle opinion fluctuations detectable both in long term and in short term. All posts are annotated by non-experts and a significant portion of the data is also annotated by experts. We provide a strategy for recruiting suitable non-experts. Our analysis of the inter-annotator agreements shows that the resulting annotations obtained from the majority vote of the non-experts are of comparable quality to the annotations of the experts. We provide analyses of the stance evolution in short term and long term levels, a comparison of language usage between users with vacillating and resolute attitudes, and fine-grained stance detection baselines.",
+}
+
+@inproceedings{lahnala-etal-2022-critical,
+    title = "A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing",
+    author = "Lahnala, Allison  and
+      Welch, Charles  and
+      Jurgens, David  and
+      Flek, Lucie",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.157",
+    pages = "2139--2158",
+    abstract = "We review the state of research on empathy in natural language processing and identify the following issues: (1) empathy definitions are absent or abstract, which (2) leads to low construct validity and reproducibility. Moreover, (3) emotional empathy is overemphasized, skewing our focus to a narrow subset of simplified tasks. We believe these issues hinder research progress and argue that current directions will benefit from a clear conceptualization that includes operationalizing cognitive empathy components. Our main objectives are to provide insight and guidance on empathy conceptualization for NLP research objectives and to encourage researchers to pursue the overlooked opportunities in this area, highly relevant, e.g., for clinical and educational sectors.",
+}
+
+@inproceedings{lahnala-etal-2021-exploring,
+    title = "Exploring Self-Identified Counseling Expertise in Online Support Forums",
+    author = "Lahnala, Allison  and
+      Zhao, Yuntian  and
+      Welch, Charles  and
+      Kummerfeld, Jonathan K.  and
+      An, Lawrence C  and
+      Resnicow, Kenneth  and
       Mihalcea, Rada  and
       P{\'e}rez-Rosas, Ver{\'o}nica",
-    booktitle = "Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
-    month = jul,
-    year = "2020",
-    address = "1st virtual meeting",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2020.sigdial-1.2",
-    pages = "10--20",
-    abstract = "We introduce a counseling dialogue system that seeks to assist counselors while they are learning and refining their counseling skills. The system generates counselors{'}reflections {--} i.e., responses that reflect back on what the client has said given the dialogue history. Our method builds upon the new generative pretrained transformer architecture and enhances it with context augmentation techniques inspired by traditional strategies used during counselor training. Through a set of comparative experiments, we show that the system that incorporates these strategies performs better in the reflection generation task than a system that is just fine-tuned with counseling conversations. To confirm our findings, we present a human evaluation study that shows that our system generates naturally-looking reflections that are also stylistically and grammatically correct.",
+    url = "https://aclanthology.org/2021.findings-acl.392",
+    doi = "10.18653/v1/2021.findings-acl.392",
+    pages = "4467--4480",
+}
+
+@inproceedings{welch-etal-2020-expressive,
+    title = "Expressive Interviewing: A Conversational System for Coping with {COVID}-19",
+    author = "Welch, Charles  and
+      Lahnala, Allison  and
+      Perez-Rosas, Veronica  and
+      Shen, Siqi  and
+      Seraj, Sarah  and
+      An, Larry  and
+      Resnicow, Kenneth  and
+      Pennebaker, James  and
+      Mihalcea, Rada",
+    booktitle = "Proceedings of the 1st Workshop on {NLP} for {COVID}-19 (Part 2) at {EMNLP} 2020",
+    month = dec,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.nlpcovid19-2.6",
+    doi = "10.18653/v1/2020.nlpcovid19-2.6",
+    abstract = "The ongoing COVID-19 pandemic has raised concerns for many regarding personal and public health implications, financial security and economic stability. Alongside many other unprecedented challenges, there are increasing concerns over social isolation and mental health. We introduce Expressive Interviewing {--} an interview-style conversational system that draws on ideas from motivational interviewing and expressive writing. Expressive Interviewing seeks to encourage users to express their thoughts and feelings through writing by asking them questions about how COVID-19 has impacted their lives. We present relevant aspects of the system{'}s design and implementation as well as quantitative and qualitative analyses of user interactions with the system. In addition, we conduct a comparative evaluation with a general purpose dialogue system for mental health that shows our system potential in helping users to cope with COVID-19 issues.",
 }

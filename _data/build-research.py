@@ -93,3 +93,6 @@ for index, new_paper in enumerate(new_papers):
 # write new list of papers to output file
 with open(output_file, mode="w") as file:
     yaml.dump(new_papers, file, default_flow_style=False, sort_keys=False)
+
+
+# ['manubot', 'cite', '--bibliography', '/home/joan/Documents/CAISA/caisa-lab.github.io/_data/research-input.bib', 'welch-mihalcea-2016-targeted', '--format', 'csljson', '--log-level', 'DEBUG']
