@@ -5,18 +5,6 @@
   link: theses_pdf/open/sales_negotiations_data_improvement.pdf
   image: images/theses/argumentation.jpeg
 
-- title: Exploring user context for detecting intended and perceived sarcasm
-  type: thesis
-  description: Sarcasm is a form of irony that occurs when there is a discrepancy between the literal meaning of an utterance and its intended meaning. Existing sarcasm detection systems focus on exploiting linguistic markers, context, or userlevel priors. However, social studies suggest that the relationship between the author and the audience can be equally relevant for the sarcasm usage and interpretation. New sarcasm dataset, focus in both types of sarcam, intended by the author, and perceived by the audience. We want to model different level of informations, text, author, and the audience, in order to explore the affect of these representations on different sarcasm types.
-  link: theses_pdf/open/Exploring user context for detecting intended and perceived sarcasm.pdf
-  image: images/theses/sarcasm_img.jpeg
-
-- title: Implicit Hate Speech Detection
-  type: thesis
-  description: Implicit hate speech is defined by coded or indirect language that disparages a person or group on the basis of protected characteristics like race, gender, and cultural identity. Compared to explicit hate speech detection, implicit hate speech contains several challenges for the NLP models. One key challenge, is that implicit hate speech detection does not contain clear lexical flags like profanity or swear-words. In addition, sometimes it might also contain a "positive" sentiment due to linguistic phenomena like sarcasm, humour, euphism etc. In this thesis we would want to address the implicit versus explicit hate speech detection, by comparing the lexical cues used in the text, and also extending with information from a) the author of the hate text, and b) the targe of the hate text.
-  link: theses_pdf/open/Implicit Hate Speech Detection.pdf
-  image: images/theses/hate_speech.png
-
 - title: Augmenting opinion strength classifiers with political radicalism priors trained on social media data
   type: thesis
   description: Recent works show that extreme partisans have a similar cognitive profile, showing that partisanship isn’t just a matter of political orientation, but a matter of intensity of one’s beliefs. Similarly, when a person expresses their opinion towards a specific socio-political issue, they can be dogmatic or receptive. Based on these works, we hypothesize that there are common linguistic, psychological and emotional attributes between extreme partisans and users who express their opinions strongly. In order to test our hypothesis, we wish to extract the linguistic attributes that are indicative of extreme or moderate partisanship - regardless of political direction. In turn, by processing the users’ posts on social media, we aim to automatically identify the author’s opinion intensity towards various socio-political issues in a zero-shot scenario.  
@@ -54,31 +42,44 @@
   image: images/theses/chatbots_science.png
 
 # Ongoing Theses
+
+# Finished theses
 - title: Bootstrapping Receptive Communities for Classification of Receptive Language
-  type: ongoing_thesis
+  type: finished_thesis
   description: Receptiveness, or how willing someone is to thoughtfully engage with opposing views, is known to contribute to more successful conversational interactions. It is desirable to be able to identify this language automatically in order to analyze and build systems that use this type of language. A few receptiveness classifiers have been built using small existing datasets with receptiveness annotations. Using these, what Reddit communities do we hypothesize will be more or less receptive? What makes them receptive and how do they differ? Leveraging data from receptive communities, we can retrain a receptiveness classifier and evaluate it using annotated data. Additional experiments may include analysis of silver data; annotated by the agreement of multiple classifiers, and the resulting impact on building a new classifier.
   link: theses_pdf/ongoing/bootstrapping_receptive_language.pdf
   image: images/theses/mhp_reddit.png
 
 - title: Personalized Models for Fake News Detection
-  type: ongoing_thesis
+  type: finished_thesis
   description: Detecting fake news online is an important and timely issue. We are interested in investigating personal differences in how fake news is spread and developing models to detect fake news. Our group has collected data for this task and for thousands of Reddit users. This can be used to test models for personalization from embeddings, language models, priming, or others. These models have been not been used for many downstream applications and we are interested to find out if these can be more widely applied and how performance differs on downstream tasks. Each method requires a different amount of computation and memory so there are trade-offs to consider.
   link: theses_pdf/ongoing/personalized_model_fake_news.pdf
   image: images/theses/fake_news_1.jpg
 
 - title: Extending Receptive Text Generation Models for Longer Documents
-  type: ongoing_thesis
+  type: finished_thesis
   description: Receptive communication, or the willingness to engage thoughtfully with opposing views, is important to having cooperative, successful conversations. Our lab has obtained preliminary results on generating paraphrases of text input to create more receptive outputs. This preliminary work was performed on sentences and in this work we are interested in extending this to longer texts or documents. This adds additional challenges through the interplay of sentences conveying different information but sharing the same receptive style.
   link: theses_pdf/ongoing/receptive_text_generation.pdf
   image: images/theses/paraphrase.jpg
 
 - title: Controllable Generation Using kNN Language Models
-  type: ongoing_thesis
+  type: finished_thesis
   description: Language modeling forms the foundation of many language processing problems and involves predicting which words come next in a sequence. Recent work on kNN language models has shown improved perplexity by storing encodings of sentence contexts and retrieving similar contexts to alter the probability distribution when predicting the next token(Khandelwal et al. 2020). If we store not only the encoding, but also labeled stylistic attributes of a sentence (e.g.politeness, formality, toxicity), can we use this to control generated language to contain these attributes to higher or lower degrees while preserving fluency? How can these stored attributes and encodings be leveraged most effectively?
   link: theses_pdf/ongoing/generation_knn_models.pdf
   image: images/theses/lm_1.png
 
-# Finished theses
+- title: Exploring user context for detecting intended and perceived sarcasm
+  type: finished_thesis
+  description: Sarcasm is a form of irony that occurs when there is a discrepancy between the literal meaning of an utterance and its intended meaning. Existing sarcasm detection systems focus on exploiting linguistic markers, context, or userlevel priors. However, social studies suggest that the relationship between the author and the audience can be equally relevant for the sarcasm usage and interpretation. New sarcasm dataset, focus in both types of sarcam, intended by the author, and perceived by the audience. We want to model different level of informations, text, author, and the audience, in order to explore the affect of these representations on different sarcasm types.
+  link: theses_pdf/open/Exploring user context for detecting intended and perceived sarcasm.pdf
+  image: images/theses/sarcasm_img.jpeg
+
+- title: Implicit Hate Speech Detection
+  type: finished_thesis
+  description: Implicit hate speech is defined by coded or indirect language that disparages a person or group on the basis of protected characteristics like race, gender, and cultural identity. Compared to explicit hate speech detection, implicit hate speech contains several challenges for the NLP models. One key challenge, is that implicit hate speech detection does not contain clear lexical flags like profanity or swear-words. In addition, sometimes it might also contain a "positive" sentiment due to linguistic phenomena like sarcasm, humour, euphism etc. In this thesis we would want to address the implicit versus explicit hate speech detection, by comparing the lexical cues used in the text, and also extending with information from a) the author of the hate text, and b) the targe of the hate text.
+  link: theses_pdf/open/Implicit Hate Speech Detection.pdf
+  image: images/theses/hate_speech.png
+
 - title: Indoctrination Detection in History Textbooks through Entity Emotion Analysis 
   type: finished_thesis
   image: icons/android.png

@@ -12,8 +12,7 @@ We incorporate personal and social context
 into our language understanding and language generation models, aiming at building 
 more user-centric conversational agents as well as more accurate web discourse interpretation systems.
 
-CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides at the 
-[Department of Mathematics and Computer Science](https://www.uni-marburg.de/en/fb12) of the Philipps Universität Marburg in Germany.
+CAISA Lab is led by [Prof. Lucie Flek](https://lucieflek.github.io/) and resides mainly at the [Bonn-Aachen International Center for Information Technology (b-it)](https://www.b-it-center.de) in Bonn Germany and [Department of Mathematics and Computer Science](https://www.uni-marburg.de/en/fb12) of the Philipps Universität Marburg in Germany.
 
 <!-- section break -->
 
