@@ -1,10 +1,4 @@
 # Open Thesis
-- title: Data Quality Improvement; Evaluate Arguments for Generating Opinionated Sales Conversations
-  type: thesis
-  description: Argumentation and debating are the process of forming reasons that humans engage in. Sales negotiation is one of the conversational activities in which a buyer and a seller communicate reasons to arrive at a satisfactory selection amongst alternatives. In our lab, we have simulated the conversation between the customer and salesperson when they express their own opinions, not only to convince each other but also in order to learn from this negotiation. This preliminary work posed new challenges, such as how to improve the quality of the conversation by identifying stronger arguments. In this work, we are interested in addressing this challenge.
-  link: theses_pdf/open/sales_negotiations_data_improvement.pdf
-  image: images/theses/argumentation.jpeg
-
 - title: Augmenting opinion strength classifiers with political radicalism priors trained on social media data
   type: thesis
   description: Recent works show that extreme partisans have a similar cognitive profile, showing that partisanship isn’t just a matter of political orientation, but a matter of intensity of one’s beliefs. Similarly, when a person expresses their opinion towards a specific socio-political issue, they can be dogmatic or receptive. Based on these works, we hypothesize that there are common linguistic, psychological and emotional attributes between extreme partisans and users who express their opinions strongly. In order to test our hypothesis, we wish to extract the linguistic attributes that are indicative of extreme or moderate partisanship - regardless of political direction. In turn, by processing the users’ posts on social media, we aim to automatically identify the author’s opinion intensity towards various socio-political issues in a zero-shot scenario.  
@@ -35,15 +29,33 @@
   link: theses_pdf/open/Banned books.pdf
   image: images/theses/banned_books.jpg
 
+# Ongoing Theses
+- title: Improving data augmentation with data attribution
+  type: ongoing_thesis
+  description: Data augmentation has been shown to help neural networks achieve a higher performance. However, not all the data points attribute the same to the performance of the models. Therefore, the aim is first to find some samples that contribute more than other samples to the model and then investigate the impact of data augmentation techniques when applied to various data points with different levels of contribution. For comparison, five widely used methods and datasets will be chosen to do experiments on. 
+  #link: theses_pdf/finished/thesis_schaeffler_final.pdf
+  image: icons/android.png
+
+- title: A Comparison of Data Augmentation Methods for Text Classification
+  type: ongoing_thesis
+  description: Data Augmentation (DA) is a way to increase the amount of training data for various applications. In DA, the goal is to perturb the input to make it slightly different but it has to be done in a way that keeps the label unchanged. While there have been numerous techniques for data augmentation in NLP, a study on the ability of these methods to preserve the input labels is lacking.
+  #link: theses_pdf/finished/thesis_schaeffler_final.pdf
+  image: icons/android.png
+
+- title: Data Quality Improvement; Evaluate Arguments for Generating Opinionated Sales Conversations
+  type: ongoing_thesis
+  description: Argumentation and debating are the process of forming reasons that humans engage in. Sales negotiation is one of the conversational activities in which a buyer and a seller communicate reasons to arrive at a satisfactory selection amongst alternatives. In our lab, we have simulated the conversation between the customer and salesperson when they express their own opinions, not only to convince each other but also in order to learn from this negotiation. This preliminary work posed new challenges, such as how to improve the quality of the conversation by identifying stronger arguments. In this work, we are interested in addressing this challenge.
+  link: theses_pdf/open/sales_negotiations_data_improvement.pdf
+  image: images/theses/argumentation.jpeg
+
+
+# Finished theses
 - title: Chatbots for Better Science
-  type: thesis
+  type: finished_thesis
   description: We will work on building a customizable chatbot that can be set up to facilitate conversations about different subjects of interest. We will work with a bioethicist to construct a chatbot that can most effectively carry out this task. The bot will start with a set of rules and we will explore ways to expand upon it’s functionality which may involve the construction of classifiers using machine learning for the purpose of better understanding user values, interests, or questions. The interested student should have some experience with natural language processing and web development.
   link: theses_pdf/open/Chatbots for better science.pdf
   image: images/theses/chatbots_science.png
 
-# Ongoing Theses
-
-# Finished theses
 - title: Bootstrapping Receptive Communities for Classification of Receptive Language
   type: finished_thesis
   description: Receptiveness, or how willing someone is to thoughtfully engage with opposing views, is known to contribute to more successful conversational interactions. It is desirable to be able to identify this language automatically in order to analyze and build systems that use this type of language. A few receptiveness classifiers have been built using small existing datasets with receptiveness annotations. Using these, what Reddit communities do we hypothesize will be more or less receptive? What makes them receptive and how do they differ? Leveraging data from receptive communities, we can retrain a receptiveness classifier and evaluate it using annotated data. Additional experiments may include analysis of silver data; annotated by the agreement of multiple classifiers, and the resulting impact on building a new classifier.
