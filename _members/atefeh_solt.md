@@ -5,6 +5,6 @@ search:
   - A Soltanifard
   - Atefeh Soltanifard
 role: master
-group: current
+group: alum
 image: images/team/atefeh.JPG
 ---
