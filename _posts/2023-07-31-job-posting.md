@@ -13,4 +13,4 @@ The position is offered for a period of 2 years, if no former times of qualifica
 
 The position is part of the BMBF project "AI Safety". As the position holder you will work in an international and interdisciplinary team on the analysis of NLP data from social media and other resources.
 
-For details on how to apply, [click here](https://lucieflek.github.io/Postdoc-position-BIT.pdf).
+For details on how to apply, [click here](../../../resources/13-08-2023-postdoc-position.pdf).

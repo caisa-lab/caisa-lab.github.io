@@ -12,7 +12,7 @@ The position is part of the BMBF project "AnDy - Automatic Analysis of the Dynam
 How can we best model and analyze the structure of conversational behavior between standard speech and dialect in different regions? What triggers people to switch between standard speech and dialect in the conversation, and can we detect this automatically? How is the behavior of the identified speaker types related to specific social, biographical and situational conditions of these individuals?
 
 The position is open for 75% of the full time, however, can be easily combined with other related 25% projects. The German language is not strictly required for the position!
-For details on how to apply, see the attached [PDF here](../../../pdf_files/postdoc_speech.pdf). 
+For details on how to apply, see the attached [PDF here](../../../resources/postdoc_speech.pdf). 
 
 Applications are accepted until **30.9.2022** or until filled! 
 
