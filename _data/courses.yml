@@ -1,0 +1,13 @@
+# Courses
+- title: MA-INF 4115 INTRODUCTION TO NATURAL LANGUAGE PROCESSING
+  type: winter_course
+  image: images/bonn-logo.png
+  link: courses/intro2nlp.html
+  description: This course provides a technical perspective on NLP - methods for building computer software that understands and manipulates human language. Contemporary data-driven approaches are emphasized, focusing on machine learning techniques. The covered applications vary in complexity, including for example Entity Recognition, Argument Mining, or Emotion Analysis. Through lectures, exercises, and a final project, you will gain a thorough introduction to cutting-edge research in NLP, from the linguistic basis of computational language methods to recent advances in deep learning and large language models.
+
+# Courses
+- title: LARGE LANGUAGE MODELS (seminar)
+  type: winter_course
+  image: images/bonn-logo.png
+  link: 
+  description: This seminar provides an overview over state-of-the-art research, over the topic of large language models (LLM). The covered papers are related to different aspects of of LLMs like, emergent behaviours, analysis, evaluation, in-context learning, multi-lingual etc.  

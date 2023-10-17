@@ -1,0 +1,26 @@
+{% assign courses = site.data.courses %}
+
+{% if include.type != nil %}
+{% if include.type == "" %}
+{% assign type = nil %}
+{% else %}
+{% assign type = include.type %}
+{% endif %}
+{% assign courses = courses | where_exp: "course", "course.type == type" %}
+{% endif %}
+
+{% for course in courses %}
+{% capture tags %}
+{% include tags.html repo=course.repo %}
+{% endcapture %}
+
+{%-
+  include card.html
+  size=include.size
+  heading=course.title
+  image=course.image
+  link=course.link
+  row1=course.description
+  row2=tags
+-%}
+{% endfor %}

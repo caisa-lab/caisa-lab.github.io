@@ -12,7 +12,8 @@ There are some specificities of how the bachelor/master thesis works in our grou
 - each student presents the results of the work at the group meeting, typically one intermediate presentation (after about 3 months, 10-15 min long, to get feedback), and one final presentation (25-30 min)
 - the working language of our group is English, since most of the scientists are from abroad. That means, the weekly meetings with the mentor are usually in English, and the presentations to the team as well. Ideally, the work is also written in English, so that the students can also get regular feedback from the mentor while writing.
 
-If you are interested in doing your bachelor or master thesis or a study project with us, don't hesitate to contact either [Prof. Flek](https://caisa-lab.github.io/members/lucie-flek.html) or the researcher listed at the advertised topic description. Please send your CV, transcript of records, and links to any relevant software projects you worked on, if applicable.
+If you are interested in doing your bachelor's or master's thesis or a study project with us, don’t hesitate to contact either us via [thesis.caisa@uni-bonn.de](mailto:thesis.caisa@uni-bonn.de) or the researcher listed on the TEAM webpage. Please send your CV, transcript of records, and links to any relevant software projects you worked on, if applicable.
+
 
 <!-- section break -->
 
