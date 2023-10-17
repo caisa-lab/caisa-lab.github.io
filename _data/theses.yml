@@ -1,33 +1,4 @@
 # Open Thesis
-- title: Augmenting opinion strength classifiers with political radicalism priors trained on social media data
-  type: thesis
-  description: Recent works show that extreme partisans have a similar cognitive profile, showing that partisanship isn’t just a matter of political orientation, but a matter of intensity of one’s beliefs. Similarly, when a person expresses their opinion towards a specific socio-political issue, they can be dogmatic or receptive. Based on these works, we hypothesize that there are common linguistic, psychological and emotional attributes between extreme partisans and users who express their opinions strongly. In order to test our hypothesis, we wish to extract the linguistic attributes that are indicative of extreme or moderate partisanship - regardless of political direction. In turn, by processing the users’ posts on social media, we aim to automatically identify the author’s opinion intensity towards various socio-political issues in a zero-shot scenario.  
-  link: theses_pdf/open/Augmenting opinion strength classifiers with political radicalism priors trained on social media data.pdf
-  image: images/theses/polarization.jpeg
-
-- title: A poor man’s opinion detection tool, training a model with a handful of data
-  type: thesis
-  description: Opinion detection aims to detect an author’s view towards a certain topic and has become a key component in everyday applications such as fake news detection and argumentation. While state-of-the-art deep learning models are ideal for this problem, they need lots of labeled training data that is often expensive to obtain. In order to reduce data collection costs, we can use few-shot-learning models which are specifically designed for learning with a very small amount of training data. Since most of our data comes from social media, we need a tool that can differentiate useful text from noisy, unopinionated posts. To this end, this thesis aims to develop an opinion detection model that can efficiently differentiate opinionated from non-opinionated text and is trained only on a small amount of data.
-  link: theses_pdf/open/poor_man_opinion_detection_tool.pdf
-  image: images/theses/poor_opinion.png
-
-- title: Investigating the level of stubbornness regarding sociopolitical views in social media
-  type: thesis
-  description: While social media platforms help to connect people worldwide and give access to enormous amounts of diverse information, they also foster an environment that promotes polarization. This occurs due to the fact that users show a tendency to consume content that aligns with their political leaning and join groups adhering to their beliefs. This phenomenon leads to the formation of segregated clusters, which are known as “echo chambers”. We aim to investigate the opinion formation between different user groups depending on the diversity of information they encounter through their social media usage. This analysis involves clusters formed based on (a) their political ideologies and (b) their tendency to disseminate false information.
-  link: theses_pdf/open/investigating_stubbornness.pdf
-  image: images/theses/stubbornness.png
-
-- title: Size matters - Data augmentation for stance detection
-  type: thesis
-  description: Data augmentation techniques are used to generate additional, synthetic data using already existing data. While images can be augmented easily by transformations such as rotations or changes of the RGB channel without affecting the classification models, text augmentation is much more difficult because there are no universal rules for automatic textual data transformations that can be applied while maintaining the meaning of the text. Therefore this thesis aims to investigate various natural language generation techniques for paraphrasing opinionated text and evaluate the quality of the generated data on opinion detection.
-  link: theses_pdf/open/size_matters.pdf
-  image: images/theses/size_matters.png
-
-- title: Banned Books! Investigating Objections to Published Content
-  type: thesis
-  description: This project will investigate the arguments people use to advocate that a book should be banned. This data may come from multiple sources, including social media, and data collected by other researchers. We will look to understand how these complaints relate to or reflect the actual content of books. Optionally, we could examine a broader context of banned books outside the USA. The interested student should have some experience with machine learning or natural language processing.
-  link: theses_pdf/open/Banned books.pdf
-  image: images/theses/banned_books.jpg
 
 # Ongoing Theses
 - title: Improving data augmentation with data attribution
@@ -120,4 +91,34 @@
   type: finished_thesis
   #link: theses_pdf/finished/thesis_schaeffler_final.pdf
   image: icons/android.png
+
+- title: Augmenting opinion strength classifiers with political radicalism priors trained on social media data
+  type: finished_thesis
+  description: Recent works show that extreme partisans have a similar cognitive profile, showing that partisanship isn’t just a matter of political orientation, but a matter of intensity of one’s beliefs. Similarly, when a person expresses their opinion towards a specific socio-political issue, they can be dogmatic or receptive. Based on these works, we hypothesize that there are common linguistic, psychological and emotional attributes between extreme partisans and users who express their opinions strongly. In order to test our hypothesis, we wish to extract the linguistic attributes that are indicative of extreme or moderate partisanship - regardless of political direction. In turn, by processing the users’ posts on social media, we aim to automatically identify the author’s opinion intensity towards various socio-political issues in a zero-shot scenario.  
+  link: theses_pdf/open/Augmenting opinion strength classifiers with political radicalism priors trained on social media data.pdf
+  image: images/theses/polarization.jpeg
+
+- title: A poor man’s opinion detection tool, training a model with a handful of data
+  type: finished_thesis
+  description: Opinion detection aims to detect an author’s view towards a certain topic and has become a key component in everyday applications such as fake news detection and argumentation. While state-of-the-art deep learning models are ideal for this problem, they need lots of labeled training data that is often expensive to obtain. In order to reduce data collection costs, we can use few-shot-learning models which are specifically designed for learning with a very small amount of training data. Since most of our data comes from social media, we need a tool that can differentiate useful text from noisy, unopinionated posts. To this end, this thesis aims to develop an opinion detection model that can efficiently differentiate opinionated from non-opinionated text and is trained only on a small amount of data.
+  link: theses_pdf/open/poor_man_opinion_detection_tool.pdf
+  image: images/theses/poor_opinion.png
+
+- title: Investigating the level of stubbornness regarding sociopolitical views in social media
+  type: finished_thesis
+  description: While social media platforms help to connect people worldwide and give access to enormous amounts of diverse information, they also foster an environment that promotes polarization. This occurs due to the fact that users show a tendency to consume content that aligns with their political leaning and join groups adhering to their beliefs. This phenomenon leads to the formation of segregated clusters, which are known as “echo chambers”. We aim to investigate the opinion formation between different user groups depending on the diversity of information they encounter through their social media usage. This analysis involves clusters formed based on (a) their political ideologies and (b) their tendency to disseminate false information.
+  link: theses_pdf/open/investigating_stubbornness.pdf
+  image: images/theses/stubbornness.png
+
+- title: Size matters - Data augmentation for stance detection
+  type: finished_thesis
+  description: Data augmentation techniques are used to generate additional, synthetic data using already existing data. While images can be augmented easily by transformations such as rotations or changes of the RGB channel without affecting the classification models, text augmentation is much more difficult because there are no universal rules for automatic textual data transformations that can be applied while maintaining the meaning of the text. Therefore this thesis aims to investigate various natural language generation techniques for paraphrasing opinionated text and evaluate the quality of the generated data on opinion detection.
+  link: theses_pdf/open/size_matters.pdf
+  image: images/theses/size_matters.png
+
+- title: Banned Books! Investigating Objections to Published Content
+  type: finished_thesis
+  description: This project will investigate the arguments people use to advocate that a book should be banned. This data may come from multiple sources, including social media, and data collected by other researchers. We will look to understand how these complaints relate to or reflect the actual content of books. Optionally, we could examine a broader context of banned books outside the USA. The interested student should have some experience with machine learning or natural language processing.
+  link: theses_pdf/open/Banned books.pdf
+  image: images/theses/banned_books.jpg
 
