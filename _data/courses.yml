@@ -10,4 +10,4 @@
   type: winter_course
   image: images/bonn-logo.png
   link: 
-  description: This seminar provides an overview over state-of-the-art research, over the topic of large language models (LLM). The covered papers are related to different aspects of of LLMs like, emergent behaviours, analysis, evaluation, in-context learning, multi-lingual etc.  
+  description: Large Language Models (LLMs), such as GPT-3, BERT, and their successors, have had an enormous impact on various domains, including natural language processing, machine learning, and artificial intelligence. These models have redefined what's possible in applications like text generation, translation, summarization, sentiment analysis, and more. The aim of this seminar is to explore the cutting-edge research, insights, and trends in the field of LLMs.
