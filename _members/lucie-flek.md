@@ -11,9 +11,10 @@ role: prof
 group: current
 image: images/team/lucie_flek.jpg
 website: https://lucieflek.github.io/
-email: \{name\}.{surname}@uni-marburg.de
+email: \{surname\}@bit.uni-bonn.de
 twitter: lucie_nlp
 github: lucieflek
+google: Lucie Flek
 ---
 
 My research interests lie in machine learning applications in the field of Natural Language Processing (NLP), with a core expertise in the area of user modeling and stylistic variation. I have been investigating how various individuals and sociodemographic groups differ in their language usage, and how this variation can be in return used in machine learning tasks to predict in-group behavior of interest. This also led me to a broader interest in the bias that the NLP field is subject to, in stereotype exaggeration, ethics issues, performance of machine learning models on underrepresented groups, and subsequently domain adaptation of the machine learning models.

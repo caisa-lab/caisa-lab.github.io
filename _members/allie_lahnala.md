@@ -11,4 +11,12 @@ github: alahnala
 email: \{name\}.{surname}@uni-marburg.de
 website: http://allielahnala.com/
 twitter: AllieLahnala
+google: Allison Lahnala
 ---
+
+## Areas of Interest
+  <pre>- Conversation analysis & modeling
+- Empathetic interactions
+- Goal-oriented conversations--symmetric & asymmetric ok, asynchronous or synchronous also ok
+- Transfer learning
+- Social NLP/computational social science
