@@ -9,7 +9,7 @@ group: current
 image: images/team/akbar_karimi.jpg
 github: akkarimi
 twitter: karimiakb
-email: \{name\}.{surname}@uni-marburg.de
+email: \{surname\}@bit.uni-bonn.de
 google: 
 ---
 

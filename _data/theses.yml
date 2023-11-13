@@ -1,4 +1,33 @@
 # Open Thesis
+- title: The real tempoBERT
+  type: thesis
+  description: In the study of LLMs robustness, we need a model to verify the shift in the linguistic style of the LLM output. The only temporal model is the tempoBERT which has been trained on a dataset that consists of 4 decades of consecutive events. However, the problem with this model is that it’s highly unlikely to see linguistic shift in these four decades since they’re so close. And what the model might model could be biased towards events rather than linguistic variation. As a result, there’s a need for a model that can differentiate linguistic styles from each other. Hence, enter the real tempoBERT. The will be trained on the Helsinki corpus of english texts which covers 3 phases of evolution in English language, namely Old, Middle, Early modern. <br> Contact [Akbar Karimi](https://caisa-lab.github.io/members/akbar_karimi.html).
+  image: icons/android.png
+
+- title: SemEval 2024, SHROOM, a shared task on Hallucinations and Related Observable Overgeneration Mistakes
+  type: thesis
+  description: With SHROOM we adopt a post hoc setting, where models have already been trained and outputs already produced. Participants will be asked to perform binary classification to identify cases of fluent overgeneration hallucinations in two different setups, model-aware and model-agnostic tracks. That is, participants must detect grammatically sound outputs which contain incorrect or unsupported semantic information, inconsistent with the source input, with or without having access to the model that produced the output. To that end, we will provide participants with a collection of checkpoints, inputs, references and outputs of systems covering three different NLG tasks like definition modeling (DM), machine translation (MT) and paraphrase generation (PG), trained with varying degrees of accuracy. The development set will provide binary annotations from at least five different annotators and a majority vote gold label. <br> Contact [Akbar Karimi](https://caisa-lab.github.io/members/akbar_karimi.html).
+  image: icons/android.png
+
+- title: SemEval 2024, Numeral-Aware Language Understanding and Generation
+  type: thesis
+  description: Consider, for instance, a scenario where one anticipates a 30% rise in stock prices versus a 3% rise. This nuance plays a pivotal role in fine-grained sentiment analysis (SemEval-2017 Task 5), as the former implies a stronger sentiment than the latter. Similarly, in a legal context such as SemEval-2023 Task 6, the statement "Stealing 10 dollars" compared to "Stealing 100,000 dollars" could potentially lead to differing court judgments. Additionally, in the context of clinical inference (SemEval-2023 Task 7), a patient's systolic blood pressure reading of 119 versus 121 could convey contrasting implications. These examples underscore the significance of understanding numerical data in text and hint at a potential research direction that could improve performance in downstream tasks. <br> Contact [Akbar Karimi](https://caisa-lab.github.io/members/akbar_karimi.html).
+  image: icons/android.png
+
+- title: SemEval 2024, Multigenerator, Multidomain, and Multilingual Black-Box Machine-Generated Text Detection
+  type: thesis
+  description: Large language models (LLMs) are becoming mainstream and easily accessible, ushering in an explosion of machine-generated content over various channels, such as news, social media, question-answering forums, educational, and even academic contexts. Recent LLMs, such as ChatGPT and GPT-4, generate remarkably fluent responses to a wide variety of user queries. The articulate nature of such generated texts makes LLMs attractive for replacing human labor in many scenarios. However, this has also resulted in concerns regarding their potential misuse, such as spreading misinformation and causing disruptions in the education system. Since humans perform only slightly better than chance when classifying machine-generated vs. human-written text, there is a need to develop automatic systems to identify machine-generated text with the goal of mitigating its potential misuse. <br> Contact [Akbar Karimi](https://caisa-lab.github.io/members/akbar_karimi.html).
+  image: icons/android.png
+
+- title: SemEval 2024, Improving data augmentation with data attribution
+  type: thesis
+  description: Data augmentation has been shown to help neural networks achieve a higher performance. However, not all the data points attribute the same to the performance of the models. Therefore, the aim is first to find some samples that contribute more than other samples to the model and then investigate the impact of data augmentation techniques when applied to various data points with different levels of contribution. For comparison, five widely used methods and datasets will be chosen to do experiments on. <br> Contact [Akbar Karimi](https://caisa-lab.github.io/members/akbar_karimi.html).
+  image: icons/android.png
+
+- title: Cognitive distortions in online support conversations
+  type: thesis
+  description: Goals would be, 1) develop & evaluate a model for cognitive distortion detection, prompt engineering approaches with chatgpt/gpt3 are possible routes. 2) use model to annotate my online support forum dataset, including deeper layers of conversational threads--evaluate 3) large-scale analysis of cognitive distortions at community-level and user-level, with rq’s such as, “what are trends in the kinds of cognitive distortions that are detectable by community i.e., by support-related concern/condition?”; “can we observe in longitudinal user data any changes in their cognitive distortions over long periods of time?”; “can we observe changes in the conversational threads--do some support providers help with reframing?” Would be a bonus if a student with psychology background would want to work on this. <br> Contact [Allison Lahnala](https://caisa-lab.github.io/members/allie_lahnala.html).
+  image: icons/android.png
 
 # Ongoing Theses
 - title: Improving data augmentation with data attribution
