@@ -9,5 +9,5 @@
 - title: LARGE LANGUAGE MODELS (seminar)
   type: winter_course
   image: images/bonn-logo.png
-  link: 
+  link: courses/llm.html
   description: Large Language Models (LLMs), such as GPT-3, BERT, and their successors, have had an enormous impact on various domains, including natural language processing, machine learning, and artificial intelligence. These models have redefined what's possible in applications like text generation, translation, summarization, sentiment analysis, and more. The aim of this seminar is to explore the cutting-edge research, insights, and trends in the field of LLMs.

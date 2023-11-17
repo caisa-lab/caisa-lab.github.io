@@ -18,7 +18,7 @@ description: We analyze characteristics of users that are vulnerable to internal
 
 {% include section.html %}
 
-#### **Logistics**
+### **Logistics**
 
 - **Lectures:** are on Thursday 10:15 AM - 11:45 AM in B-IT-Max 0.109 (Friedrich-Hirzebruch-Allee 6). The Zoom link is posted on eCampus.
 
@@ -38,7 +38,7 @@ description: We analyze characteristics of users that are vulnerable to internal
 
 {% include section.html %}
 
-#### **Content**
+### **Content**
 
 **What is the Introduction to NLP course about?**
 
@@ -55,7 +55,7 @@ Through lectures, exercises, and a final project, you will gain a thorough intro
 
 
 {% include section.html %}
-#### **Coursework**
+### **Coursework**
 
 **Assignments (Prerequisite for the exam):** will be uploaded on eCampus.
 
@@ -122,12 +122,12 @@ Through lectures, exercises, and a final project, you will gain a thorough intro
 
 
 {% include section.html %}
-#### **Exam (60%)**
+### **Exam (60%)**
 
 - Exam dates: will be announced as soon as we receive the rooms and dates from the examination office.
 - Allowed material: Calculator is permitted.
 
-#### **Allocation:**
+### **Allocation**
 
 - **3 + 1 SWS**
 - **Master in Media Informatics:** 6 ECTS credits
@@ -136,13 +136,42 @@ Through lectures, exercises, and a final project, you will gain a thorough intro
 
 
 {% include section.html %}
-#### **Literature:**
+### **Literature**
 
 - J. Eisenstein: Introduction to Natural Language Processing
 - Jurafsky, Daniel, and James H. Martin. "Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition."
 - S. Bird, E. Klein, E. Loper; Natural Language Processing with Python
 
 
+{% include section.html %}
+### **Schedule**
 
-
+|         |          Date         |                          Description                          |      Events      |               Deadlines              |
+|---------|:---------------------:|:-------------------------------------------------------------:|:----------------:|:------------------------------------:|
+| Week 1  |  Lecture (Thu Oct 26) |                                                               |                  |                                      |
+| Week 1  | Exercise (Wed Oct 25) |                  Introduction & Python basics                 |                  |                                      |
+| Week 2  |  Lecture (Thu Nov 2)  |                                                               |                  |                                      |
+| Week 2  |  Exercise (Wed Nov 1) |                            HOLIDAY                            |                  |                                      |
+| Week 3  |  Lecture (Thu Nov 9)  |                                                               |                  |                                      |
+| Week 3  |  Exercise (Wed Nov 8) | Word operations and feature extraction using Pandas & Sklearn | Assignment 1 OUT |           Team Members DUE           |
+| Week 4  |  Lecture (Thu Nov 16) |                                                               |                  |                                      |
+| Week 4  | Exercise (Wed Nov 15) |              Linear classification using TF - IDF             | Assignment 2 OUT |           Assignment 1 DUE           |
+| Week 5  |  Lecture (Thu Nov 23) |                                                               |                  |                                      |
+| Week 5  | Exercise (Wed Nov 22) |                  Word embeddings using spaCy                  | Assignment 3 OUT |           Assignment 2 DUE           |
+| Week 6  |  Lecture (Thu Nov 30) |                                                               |                  |                                      |
+| Week 6  | Exercise (Wed Nov 29) |                         Q & A: PF + PS                        |                  | Problem Formulation Assignment 3 DUE |
+| Week 7  |  Lecture (Thu Dec 7)  |                                                               |                  |                                      |
+| Week 7  |  Exercise (Wed Dec 6) |              Transformers and Generative Models I             |                  |                                      |
+| Week 8  |  Lecture (Thu Dec 14) |                                                               |                  |                                      |
+| Week 8  | Exercise (Wed Dec 13) |             Transformers and Generative Models II             | Assignment 4 OUT |                                      |
+| Week 9  |  Lecture (Thu Dec 21) |                                                               |                  |                                      |
+| Week 9  | Exercise (Wed Dec 20) |                       POS tagging & HMMs                      | Assignment 5 OUT |           Assignment 4 DUE           |
+| Week 10 |  Lecture (Thu Jan 11) |                                                               |                  |                                      |
+| Week 10 | Exercise (Wed Jan 10) |                      Project development                      |                  |           Assignment 5 DUE           |
+| Week 11 |  Lecture (Thu Jan 18) |                                                               |                  |                                      |
+| Week 11 | Exercise (Wed Jan 17) |                      Project development                      |                  |                                      |
+| Week 12 |  Lecture (Thu Jan 25) |                                                               |                  |              Poster DUE              |
+| Week 12 | Exercise (Wed Jan 24) |                      Project development                      |                  |                                      |
+| Week 13 |  Lecture (Thu Feb 01) |                                                               |                  |                                      |
+| Week 13 | Exercise (Wed Jan 31) |                 Project Presentation (Poster)                 |                  |                                      |
 
