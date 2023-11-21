@@ -13,6 +13,4 @@ github: UlviShukurzade
 twitter: UShukurzade
 ---
 
-
-
-
+Currently, I am a teacher assistant for the Introduction to Natural Language Processing (MA-INF 4115), at the University of Bonn.
