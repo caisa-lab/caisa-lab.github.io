@@ -8,7 +8,7 @@ search:
 role: master
 group: current
 image: images/team/ulvi_shukurzade.jpg
-email: ulvi.shukurzade@gmail.com 
+email: ulvi@uni-bonn.de
 github: UlviShukurzade
 twitter: UShukurzade
 ---
