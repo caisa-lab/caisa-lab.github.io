@@ -107,3 +107,6 @@
 - id: localbib:lahnala-etal-2022-critical
 - id: localbib:lahnala-etal-2021-exploring
 - id: localbib:welch-etal-2020-expressive
+
+# Vahid's publications
+- id: doi:10.18653/v1/2023.sigdial-1.6

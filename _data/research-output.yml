@@ -424,3 +424,13 @@
   date: '2020-12-01'
   link: https://aclanthology.org/2020.nlpcovid19-2.6
   id: localbib:welch-etal-2020-expressive
+- title: 'OpinionConv: Conversational Product Search with Grounded Opinions'
+  authors:
+  - Vahid Sadiri Javadi
+  - Martin Potthast
+  - Lucie Flek
+  publisher: Proceedings of the 24th Meeting of the Special Interest Group on Discourse
+    and Dialogue
+  date: '2023-01-01'
+  link: https://doi.org/gthd7j
+  id: doi:10.18653/v1/2023.sigdial-1.6
