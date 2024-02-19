@@ -1,11 +1,6 @@
 ---
 title: Vahid Sadiri Javadi
 search:
-  - V. S. Javadi
-  - V S Javadi
-  - V. Javadi
-  - V Javadi
-  - Vahid Javadi
   - Vahid
   - Javadi
 role: phd
