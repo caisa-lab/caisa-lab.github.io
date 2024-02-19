@@ -5,6 +5,9 @@ search:
   - V S Javadi
   - V. Javadi
   - V Javadi
+  - Vahid Javadi
+  - Vahid
+  - Javadi
 role: phd
 group: current
 image: images/team/vahid_javadi.png
