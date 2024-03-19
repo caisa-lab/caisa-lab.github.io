@@ -15,7 +15,8 @@ I'm a phd student under the supervision of Prof. Dr. Lucie Flek and Dr. Charles 
 
 
 ## Areas of Interest
-  <pre>  - Robustness of LLM
+  <pre>
+- Robustness of LLM
 - Emotion recognition
 - Transfer learning
 - Multimodal learning
