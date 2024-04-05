@@ -6,7 +6,7 @@ search:
   - Akbar Karimi
 role: postdoc
 group: current
-image: images/team/akbar_karimi.jpg
+image: images/team/ak.jpeg
 github: akkarimi
 twitter: karimiakb
 email: \{surname\}@bit.uni-bonn.de

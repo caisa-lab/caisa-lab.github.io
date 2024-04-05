@@ -7,7 +7,7 @@ title: Lamarr
 Lamarr NLP is a group of researchers working on pushing the boundaries of natural language processing. We work on diverse topics and meet regularly to discuss both our research and ongoing research in the field. Our members are primarily from the Universities of Bonn and Dortmund, IAIS Fraunhofer, and the Lamarr institute. However, anyone who is interested is welcome to join even if you are not a member of one of these organizations. 
 <!-- section break -->
 
-Currently, we host two events. These events occur onsite in room 02.122 of the BIT building on the University of Bonn’s campus, or [online here](https://hs-mainz-de.zoom.us/j/91426379097?pwd=N2syQjB3MzREUWxXb2tLMmV4K2FQUT09).
+Currently, we host two events. These events occur onsite in room 02.122 of the BIT building on the University of Bonn’s campus, or [online here](https://uni-bonn.zoom-x.de/j/62772783171?pwd=THJPODZZczBqWVJJSURDNWpuK2YxZz09).
 
 - <b>Research Presentations:</b> One of our members presents recently completed or ongoing work for which they are seeking feedback or collaboration. It can also be a place to practice conference or job talks.
 
