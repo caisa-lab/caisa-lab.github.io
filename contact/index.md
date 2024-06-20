@@ -26,25 +26,20 @@ Office hours: by appointment
 
 ## Office
 
-Katrin Bopper
+Ing. Irena Belska
 <br>
-Room: 04C20B (Staircase C, Level 4)
+Room: b-it 2.125
 <br>
-Phone: 06421 / 28 - 21585
+Phone: +49 228 7369201
 <br>
-Fax: 06421 / 28 - 28902
+Fax:
 <br>
-[bopper@mathematik*](mailto:bopper@mathematik)
+[belska at bit.uni-bonn.de](mailto:belska@bit.uni-bonn.de)
 <br>
 Office hours:
 <br>
-Monday &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10:00 – 17:30
+Mon-Thu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9:00 – 14:00
 <br>
-Wednesday &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;	10:00 – 17:00
-<br>
-Thursday &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10:00 – 17:00
-
-&#8291;* To obtain a correct e-mail address please add "**.uni-marburg.de**".
 
 ## Address
 
