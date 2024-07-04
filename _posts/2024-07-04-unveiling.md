@@ -49,36 +49,16 @@ Narrative techniques can enhance conversational information-seeking across vario
 ![](/images/blog-unveiling-information/3.png )
 * Exploratory Information-Seeking
 
-{%
-  include figure.html
-  image="images/blog-unveiling-information/4.png"
-  caption=""
-  width="50px"
-%}
+![](/images/blog-unveiling-information/4.png )
 * Sense-making and Knowledge Integration
 
-{%
-  include figure.html
-  image="images/blog-unveiling-information/5.png"
-  caption=""
-  width="50px"
-%}
+![](/images/blog-unveiling-information/5.png )
 * Personal Experiences
 
-{%
-  include figure.html
-  image="images/blog-unveiling-information/6.png"
-  caption=""
-  width="50px"
-%}
+![](/images/blog-unveiling-information/6.png )
 * Problem-solving and Decision-making
 
-{%
-  include figure.html
-  image="images/blog-unveiling-information/7.png"
-  caption=""
-  width="50px"
-%}
+![](/images/blog-unveiling-information/7.png )
 * Persuasion
 
 **Narrative Generation for Conversational Information-seeking Systems:**
