@@ -52,14 +52,8 @@ Inspired by findings from studies about how the brain processes narratives, whic
 Narrative techniques can enhance conversational information-seeking across various domains, particularly where users appreciate examples, human experiences, and relatable contexts alongside facts.
 
 
-
-{%
-  include figure.html
-  image="images/blog-unveiling-information/3.png"
-  caption=""
-  width="50px"
-%}
-    • Exploratory Information-Seeking
+!(images/blog-unveiling-information/3.png )
+* Exploratory Information-Seeking
 
 {%
   include figure.html
@@ -67,7 +61,7 @@ Narrative techniques can enhance conversational information-seeking across vario
   caption=""
   width="50px"
 %}
-    • Sense-making and Knowledge Integration
+* Sense-making and Knowledge Integration
 
 {%
   include figure.html
@@ -75,7 +69,7 @@ Narrative techniques can enhance conversational information-seeking across vario
   caption=""
   width="50px"
 %}
-    • Personal Experiences
+* Personal Experiences
 
 {%
   include figure.html
@@ -83,7 +77,7 @@ Narrative techniques can enhance conversational information-seeking across vario
   caption=""
   width="50px"
 %}
-    • Problem-solving and Decision-making
+* Problem-solving and Decision-making
 
 {%
   include figure.html
@@ -91,7 +85,7 @@ Narrative techniques can enhance conversational information-seeking across vario
   caption=""
   width="50px"
 %}
-    • Persuasion
+* Persuasion
 
 **Narrative Generation for Conversational Information-seeking Systems:**
 
