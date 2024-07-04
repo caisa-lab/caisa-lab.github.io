@@ -49,7 +49,7 @@ Inspired by findings from studies about how the brain processes narratives, whic
 Narrative techniques can enhance conversational information-seeking across various domains, particularly where users appreciate examples, human experiences, and relatable contexts alongside facts.
 
 
-!(images/blog-unveiling-information/3.png )
+![](images/blog-unveiling-information/3.png )
 * Exploratory Information-Seeking
 
 {%
