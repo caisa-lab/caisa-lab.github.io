@@ -29,12 +29,9 @@ First, let's consider why narratives are so powerful for human cognition. Narrat
 {%
   include figure.html
   image="images/blog-unveiling-information/2.png"
-  caption=""
+  caption="**Figure 2:** Brain receiving facts (left) vs. Brain receiving stories (right)."
   width="750px"
 %}
-
-
-**Figure 2:** Brain receiving facts (left) vs. Brain receiving stories (right).
 
 
 Throughout this research, we aim to investigate how integrating narrative techniques with conversational agents can be systematically accomplished. We propose several steps that help answer this question.
@@ -49,7 +46,7 @@ Inspired by findings from studies about how the brain processes narratives, whic
 Narrative techniques can enhance conversational information-seeking across various domains, particularly where users appreciate examples, human experiences, and relatable contexts alongside facts.
 
 
-![](images/blog-unveiling-information/3.png )
+![](/images/blog-unveiling-information/3.png )
 * Exploratory Information-Seeking
 
 {%
@@ -93,12 +90,9 @@ By considering the conversational information-seeking tasks and requirements, we
 {%
   include figure.html
   image="images/blog-unveiling-information/8.png"
-  caption=""
+  caption="**Table 1:** Desired requirements for conversational information-seeking systems and respective narrative-driven solutions."
   width="750px"
 %}
-
-
-**Table 1:** Desired requirements for conversational information-seeking systems and respective narrative-driven solutions.
 
 
 Figure 3 shows an example of a conversational narrative information-seeking system in an exploratory search scenario, incorporating narrative techniques such as Analogical Reasoning, which identifies similarities between the target concept (information being conveyed) and a more familiar concept (analogy), highlighted in blue and black colors, respectively, and Progressive Disclosure which reveals information gradually throughout the narrative, rather than presenting it all at once, presented by line breaks.
@@ -107,10 +101,9 @@ Figure 3 shows an example of a conversational narrative information-seeking syst
 {%
   include figure.html
   image="images/blog-unveiling-information/9.png"
-  caption=""
+  caption="**Figure 3:** An example of a conversational narrative information-seeking system."
   width="750px"
 %}
-**Figure 3:** An example of a conversational narrative information-seeking system.
 
 
 **Looking Ahead: Future Work**
