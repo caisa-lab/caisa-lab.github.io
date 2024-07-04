@@ -12,12 +12,9 @@ We, as humans, have the ability to create and communicate narratives. We use nar
 {%
   include figure.html
   image="images/blog-unveiling-information/1.png"
-  caption=""
+  caption="**Figure 1:** Contrasting approaches to information delivery: Factual vs. Narrative. Supposing that a conversational agent aims to play the role of a politician to address a healthcare policy."
   width="750px"
 %}
-
-
-**Figure 1:** Contrasting approaches to information delivery: Factual vs. Narrative. Supposing that a conversational agent aims to play the role of a politician to address a healthcare policy.
 
 
 This question led to our recent research project, which we are very excited about. In particular, our goal is to explore how narrative can help align conversational agents such as GPT-4 or Gemini with the human brain's cognitive process to make them more understandable.
