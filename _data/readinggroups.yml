@@ -1,0 +1,13 @@
+# Readinggroups
+- title: "EXAMPLE TITLE"
+  link: https://EXAMPLE.LINK
+  image: images/bonn-logo.png
+  date: 2024-07-17
+  presenter: EXAMPLE PRESENTER
+
+# Readinggroups
+- title: "Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP"
+  link: https://arxiv.org/pdf/2405.17159 
+  image: images/bonn-logo.png
+  date: 2024-07-10
+  presenter: Akbar Karimi

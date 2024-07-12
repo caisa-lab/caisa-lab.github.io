@@ -1,0 +1,24 @@
+{% assign readinggroups = site.data.readinggroups %}
+
+{% if include.type != nil %}
+{% if include.type == "" %}
+{% assign type = nil %}
+{% else %}
+{% assign type = include.type %}
+{% endif %}
+{% assign readinggroups = readinggroups %}
+{% endif %}
+
+{% for readinggroup in readinggroups %}
+
+{%-
+  include card.html
+  size=include.size
+  heading=readinggroup.title
+  link=readinggroup.link
+  image=readinggroup.image
+  date=readinggroup.date
+  row1=readinggroup.presenter
+  row2=readinggroup.date
+-%}
+{% endfor %}
