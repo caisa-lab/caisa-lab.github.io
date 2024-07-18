@@ -1,15 +1,153 @@
 # Readinggroups
-- title: "EXAMPLE TITLE"
-  link: https://EXAMPLE.LINK
-  image: images/bonn-logo.png
-  date: '2024-07-17'
-  presenter: EXAMPLE PRESENTER
-
-# Readinggroups
 - title: "Stop! In the Name of Flaws: Disentangling Personal Names and Sociodemographic Attributes in NLP"
   link: https://arxiv.org/pdf/2405.17159 
   image: images/bonn-logo.png
   date: '2024-07-10'
   presenter: Akbar Karimi
   
+# Readinggroups
+- title: "Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation"
+  link: https://aclanthology.org/2024.eacl-long.86.pdf
+  image: images/bonn-logo.png
+  date: '2024-07-03'
+  presenter: Wei-Fan Chen
+  
+ # Readinggroups
+- title: "Player-Driven Emergence in LLM-Driven Game Narrative"
+  link: https://arxiv.org/pdf/2404.17027
+  image: images/bonn-logo.png
+  date: '2024-06-26'
+  presenter: Vahid Sadiri Javadi
+  
+ # Readinggroups
+- title: "Chain-of-knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources"
+  link: https://arxiv.org/pdf/2305.13269
+  image: images/bonn-logo.png
+  date: '2024-06-19'
+  presenter: Shaina Ashraf
+  
+ # Readinggroups
+- title: "Has It All Been Solved? Open NLP Research Questions Not Solved by Large Language Models"
+  link: https://aclanthology.org/2024.lrec-main.708.pdf 
+  image: images/bonn-logo.png
+  date: '2024-05-29'
+  presenter: Allison Lahnala
+  
+ # Readinggroups
+- title: "Can Large Language Models Provide Useful Feedback on Research Papers? A Large-Scale Empirical Analysis"
+  link: http://arxiv.org/abs/2404.07982
+  image: images/bonn-logo.png
+  date: '2024-05-22'
+  presenter: Mounika Marredy
+  
+ # Readinggroups
+- title: "Language Imbalance Can Boost Cross-lingual Generalisation"
+  link: http://arxiv.org/abs/2404.07982
+  image: images/bonn-logo.png
+  date: '2024-05-15'
+  presenter: Shangrui Nie
+  
+ # Readinggroups
+- title: "Chain-of-Thought Reasoning Without Prompting"
+  link: https://arxiv.org/pdf/2402.10200.pdf
+  image: images/bonn-logo.png
+  date: '2024-04-24'
+  presenter: Akbar Karimi
+  
+ # Readinggroups
+- title: "ReAct: Synergizing Reasoning and Acting in Language Models"
+  link: https://par.nsf.gov/servlets/purl/10451467
+  image: images/bonn-logo.png
+  date: '2024-04-17'
+  presenter: Wei-Fan Chen
+  
+ # Readinggroups
+- title: "How Far Can We Extract Diverse Perspectives from Large Language Models?"
+  link: https://arxiv.org/pdf/2311.09799.pdf
+  image: images/bonn-logo.png
+  date: '2024-04-10'
+  presenter: Joan Plepi
+  
+ # Readinggroups
+- title: "Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs"
+  link: https://arxiv.org/pdf/2309.03118.pdf
+  image: images/bonn-logo.png
+  date: '2024-04-03'
+  presenter: Shaina Ashraf
 
+ # Readinggroups
+- title: "Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation"
+  link: https://arxiv.org/pdf/2403.09738.pdf 
+  image: images/bonn-logo.png
+  date: '2024-03-27'
+  presenter: Vahid Sadiri Javadi
+  
+ # Readinggroups
+- title: "Sensitivity, Performance, Robustness: Deconstructing the Effect of Sociodemographic Prompting"
+  link: https://arxiv.org/pdf/2309.07034.pdf
+  image: images/bonn-logo.png
+  date: '2024-03-20'
+  presenter: Charlie Welch
+  
+ # Readinggroups
+- title: "Text Alignment Is An Efficient Unified Model for Massive NLP Tasks"
+  link: https://openreview.net/pdf?id=xkkBFePoFn
+  image: images/bonn-logo.png
+  date: '2024-03-06'
+  presenter: Mounika Marredy
+  
+ # Readinggroups
+- title: "TRAK: Attributing Model Behavior at Scale"
+  link: https://arxiv.org/pdf/2303.14186.pdf
+  image: images/bonn-logo.png
+  date: '2024-02-28'
+  presenter: Akbar Karimi
+  
+ # Readinggroups
+- title: "A Comparative Multidimensional Analysis of Empathetic Systems"
+  link: https://aclanthology.org/2024.eacl-long.11.pdf 
+  image: images/bonn-logo.png
+  date: '2024-02-21'
+  presenter: Allison Lahnala
+  
+ # Readinggroups
+- title: "Editing Factual Knowledge in Language Models"
+  link: https://aclanthology.org/2021.emnlp-main.522/
+  image: images/bonn-logo.png
+  date: '2024-02-07'
+  presenter: Wei-Fan Chen
+  
+ # Readinggroups
+- title: "Tuning Language Models by Proxy"
+  link: https://arxiv.org/abs/2401.08565
+  image: images/bonn-logo.png
+  date: '2024-01-31'
+  presenter: Joan Plepi
+ 
+  # Readinggroups
+- title: "Assisted Knowledge Graph Authoring: Human-Supervised Knowledge Graph Construction from Natural Language"
+  link: https://arxiv.org/pdf/2401.07683.pdf
+  image: images/bonn-logo.png
+  date: '2024-01-24'
+  presenter: Shaina Ashraf
+ 
+  # Readinggroups
+- title: "Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution"
+  link: https://arxiv.org/abs/2309.16797
+  image: images/bonn-logo.png
+  date: '2024-01-17'
+  presenter: Vahid Sadiri Javadi
+  
+  # Readinggroups
+- title: "Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation"
+  link: https://aclanthology.org/2022.naacl-main.245/
+  image: images/bonn-logo.png
+  date: '2024-01-10'
+  presenter: Charlie Welch
+  
+  # Readinggroups
+- title: "Large Language Models of Code Fail at  Completing Code with Potential Bugs"
+  link: https://arxiv.org/pdf/2306.03438.pdf
+  image: images/bonn-logo.png
+  date: '2023-12-20'
+  presenter: Mounika Marredy

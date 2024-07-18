@@ -3,7 +3,7 @@ title: Events
 ---
 
 
-# <i class="fas fa-envelope"></i>Events
+# <i class="fas fa-book"></i>Events
 
 <!-- section break -->
 
