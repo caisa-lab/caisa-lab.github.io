@@ -1,4 +1,11 @@
 # Readinggroups
+- title: "USER-LLM: Efficient LLM Contextualization with User Embeddings"
+  link: https://arxiv.org/pdf/2402.13598 
+  image: images/bonn-logo.png
+  date: '2024-07-24'
+  presenter: Mounika Marredy
+  
+# Readinggroups
 - title: "WebArena: A Realistic Web Environment for Building Autonomous Agents"
   link: http://arxiv.org/abs/2307.13854 
   image: images/bonn-logo.png
