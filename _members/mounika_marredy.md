@@ -7,7 +7,7 @@ search:
 role: postdoc
 group: current
 image: images/team/mounika_marredy.jpeg
-email: \{surname\}@bit.uni-bonn.de
+email: marredy@bit.uni-bonn.de
 google: 
 ---
 

@@ -7,7 +7,7 @@ search:
 role: phd
 group: current
 image: images/team/shaina_ashraf.png
-email: \{name\}mscs@gmail.com
+email: shainamscs@gmail.com
 github: shaina-ashraf
 twitter: shaina2231
 ---

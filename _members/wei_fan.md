@@ -7,7 +7,7 @@ search:
 role: postdoc
 group: current
 image: images/team/wei_fan.jpg
-email: w\{surname\}@uni-bonn.de
+email: wchen@uni-bonn.de
 google: Wei-Fan Chen
 ---
 

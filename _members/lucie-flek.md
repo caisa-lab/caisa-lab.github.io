@@ -11,7 +11,7 @@ role: prof
 group: current
 image: images/team/lucie_flek.jpg
 website: https://lucieflek.github.io/
-email: \{surname\}@bit.uni-bonn.de
+email: flek@bit.uni-bonn.de
 twitter: lucie_nlp
 github: lucieflek
 google: Lucie Flek

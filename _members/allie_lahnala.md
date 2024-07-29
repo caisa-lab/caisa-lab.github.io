@@ -8,7 +8,7 @@ role: phd
 group: current
 image: images/team/allie_lahnala.jpg
 github: alahnala
-email: \{name\}.{surname}@uni-marburg.de
+email: allison.lahnala@uni-marburg.de
 website: http://allielahnala.com/
 twitter: AllieLahnala
 google: Allison Lahnala
