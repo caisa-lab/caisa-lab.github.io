@@ -5,7 +5,7 @@ search:
   - Welch
   - Charles Welch
 role: postdoc
-group: current
+group: alum
 image: images/team/charlie_welch_2.jpg
 github: cfwelch
 email: 

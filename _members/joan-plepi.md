@@ -5,7 +5,7 @@ search:
   - J Plepi
   - Joan Plepi
 role: phd
-group: current
+group: alum
 image: images/team/joan_plepi.jpg
 email: \{surname\}@bit.uni-bonn.de
 github: joanPlepi
