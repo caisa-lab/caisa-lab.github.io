@@ -4,7 +4,7 @@ search:
   - David
   - Kaczér
   - David Kaczér
-role: postdoc
+role: phd
 group: current
 image: images/team/david.jpg
 email: dkaczer@bit.uni-bonn.de
