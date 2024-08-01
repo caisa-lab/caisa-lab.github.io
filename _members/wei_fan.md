@@ -8,7 +8,7 @@ role: postdoc
 group: current
 image: images/team/wei_fan.jpg
 email: wchen@uni-bonn.de
-google: Wei-Fan Chen
+google: uLte2jsAAAAJ
 ---
 
 I am a postdoc in Prof. Flek's group since November 2023. I started my PhD at Bauhaus-Universität Weimar and had my defense at Paderborn University. In the past years, I focused on using NLP methods to tackle media bias problems, including analyzing media bias and mitigating media bias. Especially, I have done a significant amount of work on using natural language generation in the bias mitigation part. Besides, I also worked on computational argumentation and computer-assisted language learning as my side projects.
