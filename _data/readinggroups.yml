@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "LLM-based NLG Evaluation: Current Status and Challenges"
+  link:   link: https://arxiv.org/pdf/2403.09724
+  image: images/bonn-logo.png
+  date: '2024-08-14'
+  presenter: Wei-Fan Chen
+  
+ # Readinggroups
 - title: "ClaimVer: Explainable Claim-Level Verification and Evidence Attribution of Text Through Knowledge Graphs"
   link: https://arxiv.org/pdf/2403.09724
   image: images/bonn-logo.png
