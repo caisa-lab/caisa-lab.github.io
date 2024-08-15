@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Extreme Miscalibration and the Illusion of Adversarial Robustness"
+  link: https://arxiv.org/abs/2402.17509
+  image: images/bonn-logo.png
+  date: '2024-08-21'
+  presenter: Akbar Karimi
+  
+ # Readinggroups
 - title: "LLM-based NLG Evaluation: Current Status and Challenges"
   link: https://arxiv.org/pdf/2403.09724
   image: images/bonn-logo.png
