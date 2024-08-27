@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models"
+  link: http://arxiv.org/abs/2402.14848
+  image: images/bonn-logo.png
+  date: '2024-08-28'
+  presenter: Shangrui Nie
+  
+ # Readinggroups
 - title: "Extreme Miscalibration and the Illusion of Adversarial Robustness"
   link: https://arxiv.org/abs/2402.17509
   image: images/bonn-logo.png
