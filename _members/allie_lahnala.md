@@ -5,7 +5,7 @@ search:
   - Lahnala
   - Allie Lahnala
 role: phd
-group: current
+group: alum
 image: images/team/allie_lahnala.jpg
 github: alahnala
 email: allison.lahnala@uni-marburg.de
