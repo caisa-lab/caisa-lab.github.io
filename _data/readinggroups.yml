@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Writing in the Margins: Better Inference Pattern for Long Context Retrieval"
+  link: https://www.arxiv.org/pdf/2408.14906
+  image: images/bonn-logo.png
+  date: '2024-09-11'
+  presenter: Frederik Labonte
+ 
+ # Readinggroups
 - title: "Same Task, More Tokens: the Impact of Input Length on the Reasoning Performance of Large Language Models"
   link: http://arxiv.org/abs/2402.14848
   image: images/bonn-logo.png
