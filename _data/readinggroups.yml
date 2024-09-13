@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Mixture-of-Agents Enhances Large Language Model Capabilities"
+  link: https://arxiv.org/pdf/2406.04692
+  image: images/bonn-logo.png
+  date: '2024-09-18'
+  presenter: David Kaczér
+
+ # Readinggroups
 - title: "Writing in the Margins: Better Inference Pattern for Long Context Retrieval"
   link: https://www.arxiv.org/pdf/2408.14906
   image: images/bonn-logo.png
