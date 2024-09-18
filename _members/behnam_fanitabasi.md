@@ -5,7 +5,7 @@ search:
   - B Fanitabasi
   - Behnam Fanitabasi
 role: master
-group: current
+group: alum
 image: images/team/behnam_Fanitabasi.jpeg
 ---
 

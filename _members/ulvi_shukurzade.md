@@ -6,7 +6,7 @@ search:
   - U Shukurzade
   - Ulvi Shukurzade
 role: master
-group: current
+group: alum
 image: images/team/ulvi_shukurzade.jpg
 email: ulvi@uni-bonn.de
 github: UlviShukurzade

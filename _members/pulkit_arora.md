@@ -5,7 +5,7 @@ search:
   - P Arora
   - Pulkit Arora
 role: master
-group: current
+group: alum
 image: images/team/Pulkit_Arora.jpeg
 ---
 

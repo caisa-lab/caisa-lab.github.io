@@ -5,7 +5,7 @@ search:
   - M Mirhaj
   - Mahnaz Mirhaj
 role: master
-group: current
+group: alum
 image: images/team/Mahnaz_Mirhaj.jpg
 ---
 

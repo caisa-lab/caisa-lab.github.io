@@ -6,7 +6,7 @@ search:
   - Bela Neuendorf
   - Béla Neuendorf
 role: master
-group: current
+group: alum
 email: neuendob@students.uni-marburg.de
 github: BelaNeuendorf
 ---
