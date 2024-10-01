@@ -5,7 +5,7 @@ search:
   - Marredy
   - Mounika Marredy
 role: postdoc
-group: current
+group: alum
 image: images/team/mounika_marredy.jpeg
 email: marredy@bit.uni-bonn.de
 google: 
