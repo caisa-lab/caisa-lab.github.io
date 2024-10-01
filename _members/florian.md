@@ -9,6 +9,7 @@ group: current
 image: images/team/florian.jpg
 email: florian.ren.mai@gmail.com
 google: MfETM20AAAAJ
+website: https://florianmai.github.io/
 ---
 
 I have been a postdoc at CAISA since October 2024, working on web agents, planning, and alignment. Previously, I received my PhD from EPFL in 2023, where I graduated with a thesis on low-cost natural language understanding. Subsequently, I worked as a Postdoctoral Research Fellow at KU Leuven, where I worked on planning algorithms for language modeling.
