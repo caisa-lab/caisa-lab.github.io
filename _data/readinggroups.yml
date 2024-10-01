@@ -1,4 +1,18 @@
  # Readinggroups
+- title: "Pregnant Questions: The Importance of Pragmatic Awareness in Maternal Health Question Answering"
+  link: https://aclanthology.org/2024.naacl-long.403/
+  image: images/bonn-logo.png
+  date: '2024-10-02'
+  presenter: Ipek Baris
+  
+ # Readinggroups
+- title: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language"
+  link: https://arxiv.org/abs/2204.00598
+  image: images/bonn-logo.png
+  date: '2024-09-25'
+  presenter: Tianyi Zhang
+
+ # Readinggroups
 - title: "Mixture-of-Agents Enhances Large Language Model Capabilities"
   link: https://arxiv.org/pdf/2406.04692
   image: images/bonn-logo.png
