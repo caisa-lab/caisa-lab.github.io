@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Do language models practice what they preach? Examining language ideologies about gendered language reform encoded in LLMs"
+  link: https://arxiv.org/abs/2409.13852
+  image: images/bonn-logo.png
+  date: '2024-10-16'
+  presenter: Wei-Fan Chen
+  
+ # Readinggroups
 - title: "Learning to Plan for Language Modeling from Unlabeled Data"
   link: https://openreview.net/pdf?id=nT6fQIidrQ
   image: images/bonn-logo.png
