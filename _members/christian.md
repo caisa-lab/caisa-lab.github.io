@@ -7,7 +7,7 @@ search:
 role: phd
 group: current
 image: images/team/christian.png
-email: dkaczer@bit.uni-bonn.de
+email: c.nickel@uni-bonn.de
 google: 
 ---
 Hello there, my name is Christian. I am fascinated by Artificial Intelligence, Deep Learning, and more specifically Natural Language Processing (NLP) and Large Language Models (LLMs), as well as their capabilities to understand and interact with humans. Moreover, I am a proponent of inter- and transdisciplinary research, bringing together expertise from diverse fields like psychology, Human-AI Interaction (HAI), Human-Computer Interaction (HCI), social sciences (economics, political science, sociology), and physics to overcome today's limitations. I am passionate about identifying applications for cutting-edge research.
