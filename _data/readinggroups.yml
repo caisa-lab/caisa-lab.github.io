@@ -1,4 +1,11 @@
  # Readinggroups
+- title: ""KG-Adapter: Enabling Knowledge Graph Integration in Large Language Models through Parameter-Efficient Fine-Tuning""
+  link: https://aclanthology.org/2024.findings-acl.229.pdf
+  image: images/bonn-logo.png
+  date: '2024-10-30'
+  presenter: Shaina Ashraf
+
+ # Readinggroups
 - title: "Do language models practice what they preach? Examining language ideologies about gendered language reform encoded in LLMs"
   link: https://arxiv.org/abs/2409.13852
   image: images/bonn-logo.png
