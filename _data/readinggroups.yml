@@ -1,5 +1,12 @@
  # Readinggroups
-- title: ""KG-Adapter: Enabling Knowledge Graph Integration in Large Language Models through Parameter-Efficient Fine-Tuning""
+- title: "Machine Unlearning of Pre-trained Large Language Models"
+  link: https://aclanthology.org/2024.acl-long.457.pdf
+  image: images/bonn-logo.png
+  date: '2024-11-06'
+  presenter: Akbar Karimi
+
+ # Readinggroups
+- title: "KG-Adapter: Enabling Knowledge Graph Integration in Large Language Models through Parameter-Efficient Fine-Tuning"
   link: https://aclanthology.org/2024.findings-acl.229.pdf
   image: images/bonn-logo.png
   date: '2024-10-30'
