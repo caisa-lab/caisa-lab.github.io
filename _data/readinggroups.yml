@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking"
+  link: http://arxiv.org/abs/2410.23743
+  image: images/bonn-logo.png
+  date: '2024-11-06'
+  presenter: Shangrui Nie
+ 
+ # Readinggroups
 - title: "Machine Unlearning of Pre-trained Large Language Models"
   link: https://aclanthology.org/2024.acl-long.457.pdf
   image: images/bonn-logo.png
