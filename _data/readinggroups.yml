@@ -1,6 +1,6 @@
  # Readinggroups
-- title: "What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking"
-  link: http://arxiv.org/abs/2410.23743
+- title: "Can Machine Unlearning Reduce Social Bias in Language Models?"
+  link: https://aclanthology.org/2024.emnlp-industry.71
   image: images/bonn-logo.png
   date: '2024-11-13'
   presenter: Shangrui Nie
