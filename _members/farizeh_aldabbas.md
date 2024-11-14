@@ -5,7 +5,7 @@ search:
   - F Aldabbas
   - Farizeh Aldabbas
 role: master
-group: current
+group: alum
 image: images/team/Farizeh_Aldabbas.png
 ---
 

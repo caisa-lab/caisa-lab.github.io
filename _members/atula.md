@@ -6,5 +6,6 @@ search:
   - Tejaswi
   - Atula Tejaswi Neerkaje
 role: collab
+image: images/team/atula_tejaswi.png
 group: extern
 ---
