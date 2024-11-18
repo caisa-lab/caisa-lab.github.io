@@ -5,7 +5,7 @@ search:
   - M Balouchi
   - Mohammad Balouchi
 role: master
-group: current
+group: alum
 image: images/team/Mohammad_Mehdi_Balouchi.jpg
 ---
 

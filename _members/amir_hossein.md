@@ -5,6 +5,6 @@ search:
   - A Hossein
   - Amir Hossein
 role: master
-group: current
+group: alum
 image: images/team/Amir_Hossein_Aliakbarzadeh.jpg
 ---
