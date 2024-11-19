@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale"
+  link: https://arxiv.org/pdf/2406.17557
+  image: images/bonn-logo.png
+  date: '2024-11-20'
+  presenter: David Kaczér
+
+ # Readinggroups
 - title: "Can Machine Unlearning Reduce Social Bias in Language Models?"
   link: https://aclanthology.org/2024.emnlp-industry.71
   image: images/bonn-logo.png
