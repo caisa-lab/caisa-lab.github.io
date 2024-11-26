@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding"
+  link: https://arxiv.org/abs/2408.15545
+  image: images/bonn-logo.png
+  date: '2024-11-27'
+  presenter: Frederik Labonte
+ 
+ # Readinggroups
 - title: "The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale"
   link: https://arxiv.org/pdf/2406.17557
   image: images/bonn-logo.png
