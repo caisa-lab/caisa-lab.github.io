@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Are Large Language Models Capable of Generating Human-Level Narratives?"
+  link: https://arxiv.org/abs/2407.13248
+  image: images/bonn-logo.png
+  date: '2024-12-04'
+  presenter: Vahid Sadiri Javadi
+ 
+ # Readinggroups
 - title: "SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding"
   link: https://arxiv.org/abs/2408.15545
   image: images/bonn-logo.png
