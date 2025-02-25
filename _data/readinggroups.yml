@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Training Large Language Models to Reason in a Continuous Latent Space"
+  link: https://arxiv.org/abs/2412.06769
+  image: images/bonn-logo.png
+  date: '2025-02-26'
+  presenter: Florian Mai
+
+ # Readinggroups
 - title: "How Do We Answer Complex Questions: Discourse Structure of Long-form Answers"
   link: https://aclanthology.org/2022.acl-long.249.pdf
   image: images/bonn-logo.png
