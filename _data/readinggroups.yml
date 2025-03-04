@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "How do Humans and Language Models Reason About Creativity? A Comparative Analysis"
+  link: https://arxiv.org/pdf/2502.03253
+  image: images/bonn-logo.png
+  date: '2025-03-05'
+  presenter: Wei-Fan Chen
+
+ # Readinggroups
 - title: "Training Large Language Models to Reason in a Continuous Latent Space"
   link: https://arxiv.org/abs/2412.06769
   image: images/bonn-logo.png
