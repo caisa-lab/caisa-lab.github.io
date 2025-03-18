@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching"
+  link: https://arxiv.org/abs/2503.05179
+  image: images/bonn-logo.png
+  date: '2025-03-19'
+  presenter: Frederik Labonte
+ 
+ # Readinggroups
 - title: "AGILE: A Novel Reinforcement Learning Framework of LLM Agents"
   link: https://arxiv.org/pdf/2405.14751
   image: images/bonn-logo.png
