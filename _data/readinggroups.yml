@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "On Calibration of Speech Classification Models: Insights from Energy-Based Model Investigations"
+  link: https://www.isca-archive.org/interspeech_2024/hao24_interspeech.html
+  image: images/bonn-logo.png
+  date: '2025-04-16'
+  presenter: Lea Fischbach
+
+ # Readinggroups
 - title: "TokenSkip: Controllable Chain-of-Thought Compression in LLMs"
   link: https://arxiv.org/abs/2502.12067
   image: images/bonn-logo.png
