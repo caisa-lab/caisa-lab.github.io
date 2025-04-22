@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "ARITHMETIC WITHOUT ALGORITHMS: LANGUAGE MODELS SOLVE MATH WITH A BAG OF HEURISTICS"
+  link: https://arxiv.org/pdf/2410.21272
+  image: images/bonn-logo.png
+  date: '2025-04-23'
+  presenter: Akbar Karimi
+ 
+ # Readinggroups
 - title: "On Calibration of Speech Classification Models: Insights from Energy-Based Model Investigations"
   link: https://www.isca-archive.org/interspeech_2024/hao24_interspeech.html
   image: images/bonn-logo.png
