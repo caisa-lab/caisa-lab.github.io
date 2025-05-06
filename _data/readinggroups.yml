@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?"
+  link: https://arxiv.org/abs/2504.13837
+  image: images/bonn-logo.png
+  date: '2025-05-07'
+  presenter: David Kaczér
+
+ # Readinggroups
 - title: "ARITHMETIC WITHOUT ALGORITHMS: LANGUAGE MODELS SOLVE MATH WITH A BAG OF HEURISTICS"
   link: https://arxiv.org/pdf/2410.21272
   image: images/bonn-logo.png
