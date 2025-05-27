@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Learning to Reason without External Rewards "
+  link: https://www.arxiv.org/pdf/2505.19590
+  image: images/bonn-logo.png
+  date: '2025-05-28'
+  presenter: Florian Mai
+ 
+ # Readinggroups
 - title: "Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia"
   link: https://aclanthology.org/2024.emnlp-main.384/
   image: images/bonn-logo.png
