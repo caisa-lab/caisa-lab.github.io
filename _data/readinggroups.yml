@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Inference-Time Decomposition of Activations (ITDA): A Scalable Approach to Interpreting Large Language Models"
+  link: https://arxiv.org/pdf/2505.17769
+  image: images/bonn-logo.png
+  date: '2025-07-16'
+  presenter: David Kaczér
+ 
+ # Readinggroups
 - title: "Optimising your training data using model-led iterative confidence-based sample selection"
   link: https://arcturis.b-cdn.net/app/uploads/2025/06/ArcTex_HealTAC-2025.pdf
   image: images/bonn-logo.png
