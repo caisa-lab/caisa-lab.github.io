@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Normative conflicts and shallow AI alignment"
+  link: https://link.springer.com/article/10.1007/s11098-025-02347-3
+  image: images/bonn-logo.png
+  date: '2025-07-23'
+  presenter: Florian Mai
+  
+ # Readinggroups
 - title: "Inference-Time Decomposition of Activations (ITDA): A Scalable Approach to Interpreting Large Language Models"
   link: https://arxiv.org/pdf/2505.17769
   image: images/bonn-logo.png
