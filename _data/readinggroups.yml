@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Exploring LLM Priming Strategies for Few-Shot Stance Classification"
+  link: https://aclanthology.org/anthology-files/pdf/argmining/2025.argmining-1.2.pdf
+  image: images/bonn-logo.png
+  date: '2025-08-27'
+  presenter: Wei-Fan Chen
+
+ # Readinggroups
 - title: "Multiple LLM Agents Debate for Equitable Cultural Alignment"
   link: https://aclanthology.org/2025.acl-long.1210/
   image: images/bonn-logo.png
