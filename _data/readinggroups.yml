@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "CINEMETRIC: A Framework for Multi-Perspective Evaluation of Conversational Agents using Human-AI Collaboration"
+  link: 
+  image: images/bonn-logo.png
+  date: '2025-09-10'
+  presenter: Vahid Sadiri Javadi
+ 
+ # Readinggroups
 - title: "Exploring LLM Priming Strategies for Few-Shot Stance Classification"
   link: https://aclanthology.org/anthology-files/pdf/argmining/2025.argmining-1.2.pdf
   image: images/bonn-logo.png
