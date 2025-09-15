@@ -1,4 +1,11 @@
  # Readinggroups
+- title: "Deep Think with Confidence"
+  link: https://arxiv.org/abs/2508.15260
+  image: images/bonn-logo.png
+  date: '2025-09-17'
+  presenter: Frederik Labonte
+ 
+ # Readinggroups
 - title: "CINEMETRIC: A Framework for Multi-Perspective Evaluation of Conversational Agents using Human-AI Collaboration"
   link: 
   image: images/bonn-logo.png
