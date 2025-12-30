@@ -1,28 +1,19 @@
 # 2025-2026 Perspective: From Making AI Work to Making It Matter
 
-The turn of this year feels different—because a longer arc has become clear. The past five to seven years of AI research were largely driven by one question: how to make large language models work at all. How to scale them, stabilize them, and push their capabilities far enough to matter.
+The past decade of AI was largely driven by one question: how to make large language models work at all. How to scale them, stabilize them, and push their capabilities far enough to be usable. 
 
-In many respects, that phase has been successful. LLMs now do work—in research, in industry, and increasingly in everyday settings.
+The turn of this year feels different — because a longer research arc has become clear. It is no longer about whether these systems work, but about what we do with them once they do. How do we integrate them into human workflows responsibly? How do we make them robust, interpretable, and trustworthy under real-world uncertainty? And how do we embed them into science and public institutions in ways that scale—and last? 
 
-What changes now is the question. The next phase is no longer about whether these systems work, but about what we do with them once they do. How do we integrate them into human workflows responsibly? How do we make them robust, interpretable, and trustworthy under real-world uncertainty? And how do we embed them into science and public institutions in ways that scale—and last?
+This shift, from making AI work to deciding how it should work for people and science, is what connects our recent results and what will guide our work over the next 5+ years. Almost everything my group has been building converges on two tightly connected research lines: 
+**Socially Aligned Artificial Intelligence**, and **AI for Accelerating Scientific Discovery**, especially in physics.
 
-This shift—from making AI work to deciding how it should work for people and science—is what connects our recent results and what will guide our work over the next 5–7 years.
-
-Almost everything my group has been building converges on two tightly connected research lines:
-
-**Socially Aligned Artificial Intelligence**, and
-
-**AI for Accelerating Scientific Discovery**, especially in physics.
-
-What binds them is a shared methodological core: robustness, efficiency, and interpretability of foundation models. These properties are not optional. They are what make AI systems trustworthy in social settings and usable as scientific instruments. Methods, people, and questions move back and forth between the two lines. Crucially, this work is embedded in shared, centralized infrastructures for open AI science at HPC scale, rather than isolated projects.
+What connects them is a shared methodological core: robustness, efficiency, and interpretability of foundation models. These properties are not optional. They are what make AI systems trustworthy in social settings and usable as scientific instruments. I am also glad we can embed this work into shared, centralized infrastructures for open AI science at HPC scale.
 
 ### **Socially Aligned Artificial Intelligence** 
 
-Our Social AI work asks how AI systems model people, social interaction, and society—and how these capabilities can be measured, interpreted, and governed responsibly. A major milestone this year was the ERC Starting Grant “LLMpathy”, funded by the European Research Council.
+Our Socially Aligned AI research asks how LLM systems model people, social interaction, and society—and how these capabilities can be measured, interpreted, and governed responsibly. A major milestone for our group this year is being awarded the [ERC Starting Grant “LLMpathy”](https://lamarr-institute.org/news/erc-starting-grant-for-lamarr-chair-lucie-flek/), accommodating five new researchers across personal psychology, LLM reasoning, and agentic simulations. What excites me most is what it enables: social intelligence becomes a measurable research object. With LLMpathy, we can simulate, stress-test, and systematically analyze social reasoning in large language models, rather than relying on anecdotal behavior or narrow benchmarks. This builds directly on our completed junior research group [Dynamically Social Discourse Analysis](https://www.b-it-center.de/caisa/research/dynamically-social-natural-language-processing-for-online-discourse-analysis-dynsoda) and recent [ACL](https://aclanthology.org/2024.findings-acl.387/) and [EMNLP](https://aclanthology.org/2025.emnlp-main.785/) publications.
 
-What excites me most is not the label, but what it enables: social intelligence becomes a measurable research object. With LLMpathy, we can simulate, stress-test, and systematically analyze social reasoning in large language models, rather than relying on anecdotal behavior or narrow benchmarks. This builds directly on our completed junior research group Dynamically Social Discourse Analysis and recent ACL and EMNLP publications.
-
-Equally important is the community forming around this work. The approval of a Dagstuhl Seminar on “Social Artificial Intelligence” for 2026 and the upcoming ACM CHI workshop “Redefining Empathy” signal that the field is ready for deeper, more reflective conversations. For me, socially aligned AI is inseparable from AI safety and long-term resilience: the question is not if AI will shape human systems, but how we design that integration to remain human-centered and sustainable.
+Equally important is the community forming around this work. The approval of a [Dagstuhl Seminar on “Social Artificial Intelligence”](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26241) for 2026 and the upcoming [ACM CHI workshop “Redefining Empathy”](https://empathich.com/) signal that the field is ready for deeper, more reflective conversations. For me, socially aligned AI is inseparable from AI safety and long-term resilience: the question is not if AI will shape human systems, but how we design that integration to remain human-centered and sustainable.
 
 ### **AI for Scientific Discovery** 
 
