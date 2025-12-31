@@ -54,3 +54,5 @@ With socially aligned AI, physics foundation models, scientific agents, hybrid a
 **To our dedicated researchers, collaborators, and supporters: thank you for your unwavering commitment to pushing the boundaries of human knowledge. Here's to another year of curiosity, innovation, and transformative research!**
 
 {% include figure.html image="images/CaisaLamarr.jpeg" caption="" width="550px" %}
+{% include figure.html image="images/ACL.jpeg" caption="" width="550px" %}
+{% include figure.html image="images/eurips.jpeg" caption="" width="550px" %}
