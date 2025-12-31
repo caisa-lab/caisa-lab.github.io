@@ -1,5 +1,7 @@
 # 2025-2026 Perspective: From Making AI Work to Making It Matter
 
+{% include figure.html image="images/portr.png" caption="" width="550px" %}
+
 The past decade of AI was largely driven by one question: how to make large language models work at all. How to scale them, stabilize them, and push their capabilities far enough to be usable. 
 
 The turn of this year feels different — because a longer research arc has become clear. It is no longer about whether these systems work, but about what we do with them once they do. How do we integrate them into human workflows responsibly? How do we make them robust, interpretable, and trustworthy under real-world uncertainty? And how do we embed them into science and public institutions in ways that scale—and last? 
@@ -52,4 +54,3 @@ With socially aligned AI, physics foundation models, scientific agents, hybrid a
 **To our dedicated researchers, collaborators, and supporters: thank you for your unwavering commitment to pushing the boundaries of human knowledge. Here's to another year of curiosity, innovation, and transformative research!**
 
 {% include figure.html image="images/CaisaLamarr.jpeg" caption="" width="550px" %}
-{% include figure.html image="images/MLprague.jpeg" caption="" width="550px" %}
